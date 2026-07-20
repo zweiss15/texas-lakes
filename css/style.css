@@ -1,0 +1,260 @@
+:root {
+  --bg: #eef3f7;
+  --fg: #1b2733;
+  --accent: #6b7785;
+  --water: #2f7bdb;
+  --water-full: #1f9d55;
+  --grid: rgba(0, 0, 0, 0.1);
+  --row-hover: rgba(0, 0, 0, 0.03);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+a {
+  color: var(--water);
+}
+
+/* ---------- Lake page ---------- */
+
+.back-link {
+  align-self: flex-start;
+  font-size: 0.85rem;
+  color: var(--accent);
+  text-decoration: none;
+  margin-bottom: 1.5rem;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+#tagline {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  margin-bottom: 0.75rem;
+}
+
+#status {
+  display: block;
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-size: clamp(3rem, 18vw, 8rem);
+  line-height: 1;
+  letter-spacing: 0.02em;
+  color: var(--water);
+}
+
+#status.full {
+  color: var(--water-full);
+}
+
+#location {
+  font-size: 1rem;
+  color: var(--accent);
+  margin-top: 0.25rem;
+}
+
+#percent {
+  font-size: 1.3rem;
+  font-weight: 800;
+  margin-top: 0.75rem;
+}
+
+#timestamp {
+  font-size: 0.85rem;
+  color: var(--accent);
+  margin-top: 0.25rem;
+}
+
+.chart-controls {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 2rem;
+}
+
+.chart-controls button {
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.85rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid var(--accent);
+  background: transparent;
+  color: var(--fg);
+  cursor: pointer;
+}
+
+.chart-controls button.active {
+  background: var(--water);
+  border-color: var(--water);
+  color: #fff;
+}
+
+.chart-wrap {
+  position: relative;
+  width: min(90vw, 640px);
+  margin-top: 1rem;
+}
+
+#chart {
+  width: 100%;
+  height: auto;
+  display: block;
+  cursor: crosshair;
+}
+
+#chart-tooltip {
+  position: absolute;
+  display: none;
+  pointer-events: none;
+  background: var(--fg);
+  color: var(--bg);
+  font-size: 0.75rem;
+  font-weight: 800;
+  padding: 0.3rem 0.55rem;
+  border-radius: 4px;
+  white-space: nowrap;
+  z-index: 5;
+}
+
+.chart-fill {
+  fill: var(--water);
+  fill-opacity: 0.18;
+}
+
+.chart-line {
+  fill: none;
+  stroke: var(--water);
+  stroke-width: 2;
+}
+
+.chart-grid line {
+  stroke: var(--grid);
+  stroke-width: 1;
+}
+
+.chart-grid text {
+  fill: var(--accent);
+  font-size: 9px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.chart-dot {
+  fill: var(--water);
+}
+
+.chart-hover-line {
+  stroke: var(--accent);
+  stroke-width: 1;
+  stroke-dasharray: 3 3;
+}
+
+.chart-hover-dot {
+  fill: #fff;
+  stroke: var(--water);
+  stroke-width: 2;
+}
+
+/* ---------- Directory page ---------- */
+
+body.directory {
+  justify-content: flex-start;
+  padding-top: 3rem;
+}
+
+body.directory h1 {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-size: clamp(2rem, 8vw, 3.5rem);
+  margin: 0;
+}
+
+.subhead {
+  color: var(--accent);
+  margin-top: 0.25rem;
+  margin-bottom: 2rem;
+}
+
+#lakes-table {
+  width: min(94vw, 720px);
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+#lakes-table th,
+#lakes-table td {
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid var(--grid);
+  text-align: right;
+}
+
+#lakes-table td.left,
+#lakes-table th:first-child {
+  text-align: left;
+}
+
+#lakes-table th {
+  color: var(--accent);
+  font-weight: 800;
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+#lakes-table th.sorted::after {
+  content: " \25BE";
+}
+
+#lakes-table th.sorted[data-dir="asc"]::after {
+  content: " \25B4";
+}
+
+#lakes-table tbody tr:hover {
+  background: var(--row-hover);
+}
+
+#lakes-table a {
+  color: var(--fg);
+  text-decoration: none;
+  font-weight: 800;
+}
+
+#lakes-table a:hover {
+  text-decoration: underline;
+}
+
+#lakes-table td.full {
+  color: var(--water-full);
+  font-weight: 800;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #10161d;
+    --fg: #eef3f7;
+    --accent: #8b98a6;
+    --grid: rgba(255, 255, 255, 0.12);
+    --row-hover: rgba(255, 255, 255, 0.04);
+  }
+}

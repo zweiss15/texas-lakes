@@ -1,0 +1,13 @@
+{
+  "slug": "hubbard-creek",
+  "name": "Hubbard Creek Reservoir",
+  "city": "Abilene",
+  "location": "near Abilene, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 1168.17,
+  "percentFull": 41.6,
+  "percentFullMonthAgo": 43.5,
+  "percentFullYearAgo": 53.4,
+  "conservationCapacity": 313298,
+  "fetchedAt": "2026-07-20T20:20:00.687Z"
+}

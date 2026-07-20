@@ -1,0 +1,13 @@
+{
+  "slug": "richland-chambers",
+  "name": "Richland-Chambers Reservoir",
+  "city": "Dallas-Fort Worth",
+  "location": "south of Dallas-Fort Worth, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 314.23,
+  "percentFull": 96.9,
+  "percentFullMonthAgo": 96.3,
+  "percentFullYearAgo": 100,
+  "conservationCapacity": 1099417,
+  "fetchedAt": "2026-07-20T20:19:03.004Z"
+}

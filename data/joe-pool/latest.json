@@ -1,0 +1,13 @@
+{
+  "slug": "joe-pool",
+  "name": "Joe Pool Lake",
+  "city": "Dallas-Fort Worth",
+  "location": "in the Dallas-Fort Worth area",
+  "date": "2026-07-20",
+  "waterLevel": 521.93,
+  "percentFull": 99.7,
+  "percentFullMonthAgo": 100,
+  "percentFullYearAgo": 100,
+  "conservationCapacity": 149629,
+  "fetchedAt": "2026-07-20T20:19:09.145Z"
+}

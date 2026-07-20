@@ -1,0 +1,1832 @@
+[
+  {
+    "date": "2025-07-20",
+    "waterLevel": 892.21,
+    "percentFull": 67.8
+  },
+  {
+    "date": "2025-07-21",
+    "waterLevel": 892.31,
+    "percentFull": 67.9
+  },
+  {
+    "date": "2025-07-22",
+    "waterLevel": 892.39,
+    "percentFull": 68.1
+  },
+  {
+    "date": "2025-07-23",
+    "waterLevel": 892.46,
+    "percentFull": 68.2
+  },
+  {
+    "date": "2025-07-24",
+    "waterLevel": 892.49,
+    "percentFull": 68.2
+  },
+  {
+    "date": "2025-07-25",
+    "waterLevel": 892.53,
+    "percentFull": 68.3
+  },
+  {
+    "date": "2025-07-26",
+    "waterLevel": 892.56,
+    "percentFull": 68.3
+  },
+  {
+    "date": "2025-07-27",
+    "waterLevel": 892.59,
+    "percentFull": 68.4
+  },
+  {
+    "date": "2025-07-28",
+    "waterLevel": 892.6,
+    "percentFull": 68.4
+  },
+  {
+    "date": "2025-07-29",
+    "waterLevel": 892.61,
+    "percentFull": 68.4
+  },
+  {
+    "date": "2025-07-30",
+    "waterLevel": 892.61,
+    "percentFull": 68.4
+  },
+  {
+    "date": "2025-07-31",
+    "waterLevel": 892.62,
+    "percentFull": 68.4
+  },
+  {
+    "date": "2025-08-01",
+    "waterLevel": 892.61,
+    "percentFull": 68.4
+  },
+  {
+    "date": "2025-08-02",
+    "waterLevel": 892.62,
+    "percentFull": 68.4
+  },
+  {
+    "date": "2025-08-03",
+    "waterLevel": 892.66,
+    "percentFull": 68.5
+  },
+  {
+    "date": "2025-08-04",
+    "waterLevel": 892.65,
+    "percentFull": 68.5
+  },
+  {
+    "date": "2025-08-05",
+    "waterLevel": 892.69,
+    "percentFull": 68.6
+  },
+  {
+    "date": "2025-08-06",
+    "waterLevel": 892.71,
+    "percentFull": 68.6
+  },
+  {
+    "date": "2025-08-07",
+    "waterLevel": 892.71,
+    "percentFull": 68.6
+  },
+  {
+    "date": "2025-08-08",
+    "waterLevel": 892.71,
+    "percentFull": 68.6
+  },
+  {
+    "date": "2025-08-09",
+    "waterLevel": 892.69,
+    "percentFull": 68.6
+  },
+  {
+    "date": "2025-08-10",
+    "waterLevel": 892.66,
+    "percentFull": 68.5
+  },
+  {
+    "date": "2025-08-11",
+    "waterLevel": 892.64,
+    "percentFull": 68.5
+  },
+  {
+    "date": "2025-08-12",
+    "waterLevel": 892.62,
+    "percentFull": 68.4
+  },
+  {
+    "date": "2025-08-13",
+    "waterLevel": 892.61,
+    "percentFull": 68.4
+  },
+  {
+    "date": "2025-08-14",
+    "waterLevel": 892.59,
+    "percentFull": 68.4
+  },
+  {
+    "date": "2025-08-15",
+    "waterLevel": 892.56,
+    "percentFull": 68.3
+  },
+  {
+    "date": "2025-08-16",
+    "waterLevel": 892.53,
+    "percentFull": 68.3
+  },
+  {
+    "date": "2025-08-17",
+    "waterLevel": 892.52,
+    "percentFull": 68.3
+  },
+  {
+    "date": "2025-08-18",
+    "waterLevel": 892.48,
+    "percentFull": 68.2
+  },
+  {
+    "date": "2025-08-19",
+    "waterLevel": 892.46,
+    "percentFull": 68.2
+  },
+  {
+    "date": "2025-08-20",
+    "waterLevel": 892.43,
+    "percentFull": 68.1
+  },
+  {
+    "date": "2025-08-21",
+    "waterLevel": 892.41,
+    "percentFull": 68.1
+  },
+  {
+    "date": "2025-08-22",
+    "waterLevel": 892.39,
+    "percentFull": 68.1
+  },
+  {
+    "date": "2025-08-23",
+    "waterLevel": 892.38,
+    "percentFull": 68
+  },
+  {
+    "date": "2025-08-24",
+    "waterLevel": 892.34,
+    "percentFull": 68
+  },
+  {
+    "date": "2025-08-25",
+    "waterLevel": 892.3,
+    "percentFull": 67.9
+  },
+  {
+    "date": "2025-08-26",
+    "waterLevel": 892.26,
+    "percentFull": 67.8
+  },
+  {
+    "date": "2025-08-27",
+    "waterLevel": 892.23,
+    "percentFull": 67.8
+  },
+  {
+    "date": "2025-08-28",
+    "waterLevel": 892.21,
+    "percentFull": 67.8
+  },
+  {
+    "date": "2025-08-29",
+    "waterLevel": 892.17,
+    "percentFull": 67.7
+  },
+  {
+    "date": "2025-08-30",
+    "waterLevel": 892.14,
+    "percentFull": 67.6
+  },
+  {
+    "date": "2025-08-31",
+    "waterLevel": 892.11,
+    "percentFull": 67.6
+  },
+  {
+    "date": "2025-09-01",
+    "waterLevel": 892.11,
+    "percentFull": 67.6
+  },
+  {
+    "date": "2025-09-02",
+    "waterLevel": 892.14,
+    "percentFull": 67.6
+  },
+  {
+    "date": "2025-09-03",
+    "waterLevel": 892.13,
+    "percentFull": 67.6
+  },
+  {
+    "date": "2025-09-04",
+    "waterLevel": 892.11,
+    "percentFull": 67.6
+  },
+  {
+    "date": "2025-09-05",
+    "waterLevel": 892.08,
+    "percentFull": 67.5
+  },
+  {
+    "date": "2025-09-06",
+    "waterLevel": 892.06,
+    "percentFull": 67.5
+  },
+  {
+    "date": "2025-09-07",
+    "waterLevel": 892.1,
+    "percentFull": 67.6
+  },
+  {
+    "date": "2025-09-08",
+    "waterLevel": 892.13,
+    "percentFull": 67.6
+  },
+  {
+    "date": "2025-09-09",
+    "waterLevel": 892.13,
+    "percentFull": 67.6
+  },
+  {
+    "date": "2025-09-10",
+    "waterLevel": 892.1,
+    "percentFull": 67.6
+  },
+  {
+    "date": "2025-09-11",
+    "waterLevel": 892.08,
+    "percentFull": 67.5
+  },
+  {
+    "date": "2025-09-12",
+    "waterLevel": 892.05,
+    "percentFull": 67.5
+  },
+  {
+    "date": "2025-09-13",
+    "waterLevel": 892.01,
+    "percentFull": 67.4
+  },
+  {
+    "date": "2025-09-14",
+    "waterLevel": 891.98,
+    "percentFull": 67.4
+  },
+  {
+    "date": "2025-09-15",
+    "waterLevel": 891.95,
+    "percentFull": 67.3
+  },
+  {
+    "date": "2025-09-16",
+    "waterLevel": 891.92,
+    "percentFull": 67.3
+  },
+  {
+    "date": "2025-09-17",
+    "waterLevel": 891.88,
+    "percentFull": 67.2
+  },
+  {
+    "date": "2025-09-18",
+    "waterLevel": 891.85,
+    "percentFull": 67.1
+  },
+  {
+    "date": "2025-09-19",
+    "waterLevel": 891.81,
+    "percentFull": 67.1
+  },
+  {
+    "date": "2025-09-20",
+    "waterLevel": 891.78,
+    "percentFull": 67
+  },
+  {
+    "date": "2025-09-21",
+    "waterLevel": 891.75,
+    "percentFull": 67
+  },
+  {
+    "date": "2025-09-22",
+    "waterLevel": 891.71,
+    "percentFull": 66.9
+  },
+  {
+    "date": "2025-09-23",
+    "waterLevel": 891.68,
+    "percentFull": 66.9
+  },
+  {
+    "date": "2025-09-24",
+    "waterLevel": 891.64,
+    "percentFull": 66.8
+  },
+  {
+    "date": "2025-09-25",
+    "waterLevel": 891.61,
+    "percentFull": 66.7
+  },
+  {
+    "date": "2025-09-26",
+    "waterLevel": 891.57,
+    "percentFull": 66.7
+  },
+  {
+    "date": "2025-09-27",
+    "waterLevel": 891.53,
+    "percentFull": 66.6
+  },
+  {
+    "date": "2025-09-28",
+    "waterLevel": 891.5,
+    "percentFull": 66.6
+  },
+  {
+    "date": "2025-09-29",
+    "waterLevel": 891.46,
+    "percentFull": 66.5
+  },
+  {
+    "date": "2025-09-30",
+    "waterLevel": 891.43,
+    "percentFull": 66.4
+  },
+  {
+    "date": "2025-10-01",
+    "waterLevel": 891.39,
+    "percentFull": 66.4
+  },
+  {
+    "date": "2025-10-02",
+    "waterLevel": 891.36,
+    "percentFull": 66.3
+  },
+  {
+    "date": "2025-10-03",
+    "waterLevel": 891.33,
+    "percentFull": 66.3
+  },
+  {
+    "date": "2025-10-04",
+    "waterLevel": 891.3,
+    "percentFull": 66.2
+  },
+  {
+    "date": "2025-10-05",
+    "waterLevel": 891.27,
+    "percentFull": 66.2
+  },
+  {
+    "date": "2025-10-06",
+    "waterLevel": 891.23,
+    "percentFull": 66.1
+  },
+  {
+    "date": "2025-10-07",
+    "waterLevel": 891.2,
+    "percentFull": 66.1
+  },
+  {
+    "date": "2025-10-08",
+    "waterLevel": 891.17,
+    "percentFull": 66
+  },
+  {
+    "date": "2025-10-09",
+    "waterLevel": 891.13,
+    "percentFull": 66
+  },
+  {
+    "date": "2025-10-10",
+    "waterLevel": 891.09,
+    "percentFull": 65.9
+  },
+  {
+    "date": "2025-10-11",
+    "waterLevel": 891.05,
+    "percentFull": 65.8
+  },
+  {
+    "date": "2025-10-12",
+    "waterLevel": 891.01,
+    "percentFull": 65.8
+  },
+  {
+    "date": "2025-10-13",
+    "waterLevel": 890.97,
+    "percentFull": 65.7
+  },
+  {
+    "date": "2025-10-14",
+    "waterLevel": 890.92,
+    "percentFull": 65.6
+  },
+  {
+    "date": "2025-10-15",
+    "waterLevel": 890.88,
+    "percentFull": 65.5
+  },
+  {
+    "date": "2025-10-16",
+    "waterLevel": 890.84,
+    "percentFull": 65.5
+  },
+  {
+    "date": "2025-10-17",
+    "waterLevel": 890.8,
+    "percentFull": 65.4
+  },
+  {
+    "date": "2025-10-18",
+    "waterLevel": 890.74,
+    "percentFull": 65.3
+  },
+  {
+    "date": "2025-10-19",
+    "waterLevel": 890.69,
+    "percentFull": 65.2
+  },
+  {
+    "date": "2025-10-20",
+    "waterLevel": 890.63,
+    "percentFull": 65.1
+  },
+  {
+    "date": "2025-10-21",
+    "waterLevel": 890.59,
+    "percentFull": 65.1
+  },
+  {
+    "date": "2025-10-22",
+    "waterLevel": 890.52,
+    "percentFull": 64.9
+  },
+  {
+    "date": "2025-10-23",
+    "waterLevel": 890.48,
+    "percentFull": 64.9
+  },
+  {
+    "date": "2025-10-24",
+    "waterLevel": 890.44,
+    "percentFull": 64.8
+  },
+  {
+    "date": "2025-10-25",
+    "waterLevel": 890.47,
+    "percentFull": 64.9
+  },
+  {
+    "date": "2025-10-26",
+    "waterLevel": 890.45,
+    "percentFull": 64.8
+  },
+  {
+    "date": "2025-10-27",
+    "waterLevel": 890.42,
+    "percentFull": 64.8
+  },
+  {
+    "date": "2025-10-28",
+    "waterLevel": 890.38,
+    "percentFull": 64.7
+  },
+  {
+    "date": "2025-10-29",
+    "waterLevel": 890.32,
+    "percentFull": 64.6
+  },
+  {
+    "date": "2025-10-30",
+    "waterLevel": 890.25,
+    "percentFull": 64.5
+  },
+  {
+    "date": "2025-10-31",
+    "waterLevel": 890.21,
+    "percentFull": 64.4
+  },
+  {
+    "date": "2025-11-01",
+    "waterLevel": 890.17,
+    "percentFull": 64.4
+  },
+  {
+    "date": "2025-11-02",
+    "waterLevel": 890.14,
+    "percentFull": 64.3
+  },
+  {
+    "date": "2025-11-03",
+    "waterLevel": 890.1,
+    "percentFull": 64.3
+  },
+  {
+    "date": "2025-11-04",
+    "waterLevel": 890.07,
+    "percentFull": 64.2
+  },
+  {
+    "date": "2025-11-05",
+    "waterLevel": 890.04,
+    "percentFull": 64.2
+  },
+  {
+    "date": "2025-11-06",
+    "waterLevel": 890.01,
+    "percentFull": 64.1
+  },
+  {
+    "date": "2025-11-07",
+    "waterLevel": 889.99,
+    "percentFull": 64.1
+  },
+  {
+    "date": "2025-11-08",
+    "waterLevel": 889.96,
+    "percentFull": 64
+  },
+  {
+    "date": "2025-11-09",
+    "waterLevel": 889.91,
+    "percentFull": 64
+  },
+  {
+    "date": "2025-11-10",
+    "waterLevel": 889.86,
+    "percentFull": 63.9
+  },
+  {
+    "date": "2025-11-11",
+    "waterLevel": 889.81,
+    "percentFull": 63.8
+  },
+  {
+    "date": "2025-11-12",
+    "waterLevel": 889.78,
+    "percentFull": 63.7
+  },
+  {
+    "date": "2025-11-13",
+    "waterLevel": 889.75,
+    "percentFull": 63.7
+  },
+  {
+    "date": "2025-11-14",
+    "waterLevel": 889.72,
+    "percentFull": 63.6
+  },
+  {
+    "date": "2025-11-15",
+    "waterLevel": 889.69,
+    "percentFull": 63.6
+  },
+  {
+    "date": "2025-11-16",
+    "waterLevel": 889.67,
+    "percentFull": 63.6
+  },
+  {
+    "date": "2025-11-17",
+    "waterLevel": 889.65,
+    "percentFull": 63.5
+  },
+  {
+    "date": "2025-11-18",
+    "waterLevel": 889.62,
+    "percentFull": 63.5
+  },
+  {
+    "date": "2025-11-19",
+    "waterLevel": 889.59,
+    "percentFull": 63.4
+  },
+  {
+    "date": "2025-11-20",
+    "waterLevel": 889.58,
+    "percentFull": 63.4
+  },
+  {
+    "date": "2025-11-21",
+    "waterLevel": 889.61,
+    "percentFull": 63.5
+  },
+  {
+    "date": "2025-11-22",
+    "waterLevel": 889.59,
+    "percentFull": 63.4
+  },
+  {
+    "date": "2025-11-23",
+    "waterLevel": 889.55,
+    "percentFull": 63.4
+  },
+  {
+    "date": "2025-11-24",
+    "waterLevel": 889.54,
+    "percentFull": 63.4
+  },
+  {
+    "date": "2025-11-25",
+    "waterLevel": 889.53,
+    "percentFull": 63.3
+  },
+  {
+    "date": "2025-11-26",
+    "waterLevel": 889.5,
+    "percentFull": 63.3
+  },
+  {
+    "date": "2025-11-27",
+    "waterLevel": 889.47,
+    "percentFull": 63.2
+  },
+  {
+    "date": "2025-11-28",
+    "waterLevel": 889.43,
+    "percentFull": 63.2
+  },
+  {
+    "date": "2025-11-29",
+    "waterLevel": 889.41,
+    "percentFull": 63.1
+  },
+  {
+    "date": "2025-11-30",
+    "waterLevel": 889.39,
+    "percentFull": 63.1
+  },
+  {
+    "date": "2025-12-01",
+    "waterLevel": 889.34,
+    "percentFull": 63
+  },
+  {
+    "date": "2025-12-02",
+    "waterLevel": 889.31,
+    "percentFull": 63
+  },
+  {
+    "date": "2025-12-03",
+    "waterLevel": 889.27,
+    "percentFull": 62.9
+  },
+  {
+    "date": "2025-12-04",
+    "waterLevel": 889.25,
+    "percentFull": 62.9
+  },
+  {
+    "date": "2025-12-05",
+    "waterLevel": 889.2,
+    "percentFull": 62.8
+  },
+  {
+    "date": "2025-12-06",
+    "waterLevel": 889.18,
+    "percentFull": 62.8
+  },
+  {
+    "date": "2025-12-07",
+    "waterLevel": 889.16,
+    "percentFull": 62.7
+  },
+  {
+    "date": "2025-12-08",
+    "waterLevel": 889.12,
+    "percentFull": 62.7
+  },
+  {
+    "date": "2025-12-09",
+    "waterLevel": 889.1,
+    "percentFull": 62.7
+  },
+  {
+    "date": "2025-12-10",
+    "waterLevel": 889.07,
+    "percentFull": 62.6
+  },
+  {
+    "date": "2025-12-11",
+    "waterLevel": 889.04,
+    "percentFull": 62.6
+  },
+  {
+    "date": "2025-12-12",
+    "waterLevel": 889.02,
+    "percentFull": 62.5
+  },
+  {
+    "date": "2025-12-13",
+    "waterLevel": 889,
+    "percentFull": 62.5
+  },
+  {
+    "date": "2025-12-14",
+    "waterLevel": 888.98,
+    "percentFull": 62.5
+  },
+  {
+    "date": "2025-12-15",
+    "waterLevel": 888.95,
+    "percentFull": 62.4
+  },
+  {
+    "date": "2025-12-16",
+    "waterLevel": 888.92,
+    "percentFull": 62.4
+  },
+  {
+    "date": "2025-12-17",
+    "waterLevel": 888.92,
+    "percentFull": 62.4
+  },
+  {
+    "date": "2025-12-18",
+    "waterLevel": 888.92,
+    "percentFull": 62.4
+  },
+  {
+    "date": "2025-12-19",
+    "waterLevel": 888.89,
+    "percentFull": 62.3
+  },
+  {
+    "date": "2025-12-20",
+    "waterLevel": 888.87,
+    "percentFull": 62.3
+  },
+  {
+    "date": "2025-12-21",
+    "waterLevel": 888.86,
+    "percentFull": 62.3
+  },
+  {
+    "date": "2025-12-22",
+    "waterLevel": 888.83,
+    "percentFull": 62.2
+  },
+  {
+    "date": "2025-12-23",
+    "waterLevel": 888.82,
+    "percentFull": 62.2
+  },
+  {
+    "date": "2025-12-24",
+    "waterLevel": 888.8,
+    "percentFull": 62.2
+  },
+  {
+    "date": "2025-12-25",
+    "waterLevel": 888.79,
+    "percentFull": 62.2
+  },
+  {
+    "date": "2025-12-26",
+    "waterLevel": 888.78,
+    "percentFull": 62.1
+  },
+  {
+    "date": "2025-12-27",
+    "waterLevel": 888.76,
+    "percentFull": 62.1
+  },
+  {
+    "date": "2025-12-28",
+    "waterLevel": 888.76,
+    "percentFull": 62.1
+  },
+  {
+    "date": "2025-12-29",
+    "waterLevel": 888.73,
+    "percentFull": 62.1
+  },
+  {
+    "date": "2025-12-30",
+    "waterLevel": 888.67,
+    "percentFull": 62
+  },
+  {
+    "date": "2025-12-31",
+    "waterLevel": 888.64,
+    "percentFull": 61.9
+  },
+  {
+    "date": "2026-01-01",
+    "waterLevel": 888.61,
+    "percentFull": 61.9
+  },
+  {
+    "date": "2026-01-02",
+    "waterLevel": 888.59,
+    "percentFull": 61.8
+  },
+  {
+    "date": "2026-01-03",
+    "waterLevel": 888.57,
+    "percentFull": 61.8
+  },
+  {
+    "date": "2026-01-04",
+    "waterLevel": 888.55,
+    "percentFull": 61.8
+  },
+  {
+    "date": "2026-01-05",
+    "waterLevel": 888.53,
+    "percentFull": 61.7
+  },
+  {
+    "date": "2026-01-06",
+    "waterLevel": 888.51,
+    "percentFull": 61.7
+  },
+  {
+    "date": "2026-01-07",
+    "waterLevel": 888.49,
+    "percentFull": 61.7
+  },
+  {
+    "date": "2026-01-08",
+    "waterLevel": 888.46,
+    "percentFull": 61.6
+  },
+  {
+    "date": "2026-01-09",
+    "waterLevel": 888.46,
+    "percentFull": 61.6
+  },
+  {
+    "date": "2026-01-10",
+    "waterLevel": 888.43,
+    "percentFull": 61.6
+  },
+  {
+    "date": "2026-01-11",
+    "waterLevel": 888.37,
+    "percentFull": 61.5
+  },
+  {
+    "date": "2026-01-12",
+    "waterLevel": 888.34,
+    "percentFull": 61.4
+  },
+  {
+    "date": "2026-01-13",
+    "waterLevel": 888.32,
+    "percentFull": 61.4
+  },
+  {
+    "date": "2026-01-14",
+    "waterLevel": 888.3,
+    "percentFull": 61.4
+  },
+  {
+    "date": "2026-01-15",
+    "waterLevel": 888.25,
+    "percentFull": 61.3
+  },
+  {
+    "date": "2026-01-16",
+    "waterLevel": 888.23,
+    "percentFull": 61.3
+  },
+  {
+    "date": "2026-01-17",
+    "waterLevel": 888.19,
+    "percentFull": 61.2
+  },
+  {
+    "date": "2026-01-18",
+    "waterLevel": 888.15,
+    "percentFull": 61.1
+  },
+  {
+    "date": "2026-01-19",
+    "waterLevel": 888.12,
+    "percentFull": 61.1
+  },
+  {
+    "date": "2026-01-20",
+    "waterLevel": 888.1,
+    "percentFull": 61.1
+  },
+  {
+    "date": "2026-01-21",
+    "waterLevel": 888.08,
+    "percentFull": 61
+  },
+  {
+    "date": "2026-01-22",
+    "waterLevel": 888.06,
+    "percentFull": 61
+  },
+  {
+    "date": "2026-01-23",
+    "waterLevel": 888.05,
+    "percentFull": 61
+  },
+  {
+    "date": "2026-01-24",
+    "waterLevel": 888.05,
+    "percentFull": 61
+  },
+  {
+    "date": "2026-01-25",
+    "waterLevel": 888.05,
+    "percentFull": 61
+  },
+  {
+    "date": "2026-01-26",
+    "waterLevel": 888.05,
+    "percentFull": 61
+  },
+  {
+    "date": "2026-01-27",
+    "waterLevel": 888.05,
+    "percentFull": 61
+  },
+  {
+    "date": "2026-01-28",
+    "waterLevel": 888.05,
+    "percentFull": 61
+  },
+  {
+    "date": "2026-01-29",
+    "waterLevel": 888.05,
+    "percentFull": 61
+  },
+  {
+    "date": "2026-01-30",
+    "waterLevel": 888.04,
+    "percentFull": 61
+  },
+  {
+    "date": "2026-01-31",
+    "waterLevel": 888.02,
+    "percentFull": 60.9
+  },
+  {
+    "date": "2026-02-01",
+    "waterLevel": 888,
+    "percentFull": 60.9
+  },
+  {
+    "date": "2026-02-02",
+    "waterLevel": 887.98,
+    "percentFull": 60.9
+  },
+  {
+    "date": "2026-02-03",
+    "waterLevel": 887.97,
+    "percentFull": 60.9
+  },
+  {
+    "date": "2026-02-04",
+    "waterLevel": 887.96,
+    "percentFull": 60.8
+  },
+  {
+    "date": "2026-02-05",
+    "waterLevel": 887.95,
+    "percentFull": 60.8
+  },
+  {
+    "date": "2026-02-06",
+    "waterLevel": 887.93,
+    "percentFull": 60.8
+  },
+  {
+    "date": "2026-02-07",
+    "waterLevel": 887.91,
+    "percentFull": 60.8
+  },
+  {
+    "date": "2026-02-08",
+    "waterLevel": 887.89,
+    "percentFull": 60.7
+  },
+  {
+    "date": "2026-02-09",
+    "waterLevel": 887.88,
+    "percentFull": 60.7
+  },
+  {
+    "date": "2026-02-10",
+    "waterLevel": 887.86,
+    "percentFull": 60.7
+  },
+  {
+    "date": "2026-02-11",
+    "waterLevel": 887.85,
+    "percentFull": 60.7
+  },
+  {
+    "date": "2026-02-12",
+    "waterLevel": 887.85,
+    "percentFull": 60.7
+  },
+  {
+    "date": "2026-02-13",
+    "waterLevel": 887.83,
+    "percentFull": 60.6
+  },
+  {
+    "date": "2026-02-14",
+    "waterLevel": 887.82,
+    "percentFull": 60.6
+  },
+  {
+    "date": "2026-02-15",
+    "waterLevel": 887.84,
+    "percentFull": 60.7
+  },
+  {
+    "date": "2026-02-16",
+    "waterLevel": 887.83,
+    "percentFull": 60.6
+  },
+  {
+    "date": "2026-02-17",
+    "waterLevel": 887.82,
+    "percentFull": 60.6
+  },
+  {
+    "date": "2026-02-18",
+    "waterLevel": 887.8,
+    "percentFull": 60.6
+  },
+  {
+    "date": "2026-02-19",
+    "waterLevel": 887.8,
+    "percentFull": 60.6
+  },
+  {
+    "date": "2026-02-20",
+    "waterLevel": 887.78,
+    "percentFull": 60.6
+  },
+  {
+    "date": "2026-02-21",
+    "waterLevel": 887.76,
+    "percentFull": 60.5
+  },
+  {
+    "date": "2026-02-22",
+    "waterLevel": 887.72,
+    "percentFull": 60.5
+  },
+  {
+    "date": "2026-02-23",
+    "waterLevel": 887.68,
+    "percentFull": 60.4
+  },
+  {
+    "date": "2026-02-24",
+    "waterLevel": 887.65,
+    "percentFull": 60.4
+  },
+  {
+    "date": "2026-02-25",
+    "waterLevel": 887.62,
+    "percentFull": 60.3
+  },
+  {
+    "date": "2026-02-26",
+    "waterLevel": 887.6,
+    "percentFull": 60.3
+  },
+  {
+    "date": "2026-02-27",
+    "waterLevel": 887.58,
+    "percentFull": 60.3
+  },
+  {
+    "date": "2026-02-28",
+    "waterLevel": 887.55,
+    "percentFull": 60.2
+  },
+  {
+    "date": "2026-03-01",
+    "waterLevel": 887.53,
+    "percentFull": 60.2
+  },
+  {
+    "date": "2026-03-02",
+    "waterLevel": 887.5,
+    "percentFull": 60.1
+  },
+  {
+    "date": "2026-03-03",
+    "waterLevel": 887.48,
+    "percentFull": 60.1
+  },
+  {
+    "date": "2026-03-04",
+    "waterLevel": 887.46,
+    "percentFull": 60.1
+  },
+  {
+    "date": "2026-03-05",
+    "waterLevel": 887.44,
+    "percentFull": 60
+  },
+  {
+    "date": "2026-03-06",
+    "waterLevel": 887.42,
+    "percentFull": 60
+  },
+  {
+    "date": "2026-03-07",
+    "waterLevel": 887.41,
+    "percentFull": 60
+  },
+  {
+    "date": "2026-03-08",
+    "waterLevel": 887.39,
+    "percentFull": 60
+  },
+  {
+    "date": "2026-03-09",
+    "waterLevel": 887.37,
+    "percentFull": 59.9
+  },
+  {
+    "date": "2026-03-10",
+    "waterLevel": 887.35,
+    "percentFull": 59.9
+  },
+  {
+    "date": "2026-03-11",
+    "waterLevel": 887.37,
+    "percentFull": 59.9
+  },
+  {
+    "date": "2026-03-12",
+    "waterLevel": 887.33,
+    "percentFull": 59.9
+  },
+  {
+    "date": "2026-03-13",
+    "waterLevel": 887.3,
+    "percentFull": 59.8
+  },
+  {
+    "date": "2026-03-14",
+    "waterLevel": 887.27,
+    "percentFull": 59.8
+  },
+  {
+    "date": "2026-03-15",
+    "waterLevel": 887.26,
+    "percentFull": 59.8
+  },
+  {
+    "date": "2026-03-16",
+    "waterLevel": 887.21,
+    "percentFull": 59.7
+  },
+  {
+    "date": "2026-03-17",
+    "waterLevel": 887.16,
+    "percentFull": 59.6
+  },
+  {
+    "date": "2026-03-18",
+    "waterLevel": 887.12,
+    "percentFull": 59.5
+  },
+  {
+    "date": "2026-03-19",
+    "waterLevel": 887.09,
+    "percentFull": 59.5
+  },
+  {
+    "date": "2026-03-20",
+    "waterLevel": 887.07,
+    "percentFull": 59.5
+  },
+  {
+    "date": "2026-03-21",
+    "waterLevel": 887.05,
+    "percentFull": 59.4
+  },
+  {
+    "date": "2026-03-22",
+    "waterLevel": 887.02,
+    "percentFull": 59.4
+  },
+  {
+    "date": "2026-03-23",
+    "waterLevel": 887,
+    "percentFull": 59.4
+  },
+  {
+    "date": "2026-03-24",
+    "waterLevel": 886.97,
+    "percentFull": 59.3
+  },
+  {
+    "date": "2026-03-25",
+    "waterLevel": 886.95,
+    "percentFull": 59.3
+  },
+  {
+    "date": "2026-03-26",
+    "waterLevel": 886.92,
+    "percentFull": 59.2
+  },
+  {
+    "date": "2026-03-27",
+    "waterLevel": 886.9,
+    "percentFull": 59.2
+  },
+  {
+    "date": "2026-03-28",
+    "waterLevel": 886.86,
+    "percentFull": 59.1
+  },
+  {
+    "date": "2026-03-29",
+    "waterLevel": 886.83,
+    "percentFull": 59.1
+  },
+  {
+    "date": "2026-03-30",
+    "waterLevel": 886.8,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-03-31",
+    "waterLevel": 886.77,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-04-01",
+    "waterLevel": 886.74,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-04-02",
+    "waterLevel": 886.73,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-04-03",
+    "waterLevel": 886.72,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-04-04",
+    "waterLevel": 886.72,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-04-05",
+    "waterLevel": 886.71,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-04-06",
+    "waterLevel": 886.67,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-04-07",
+    "waterLevel": 886.63,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-04-08",
+    "waterLevel": 886.6,
+    "percentFull": 58.7
+  },
+  {
+    "date": "2026-04-09",
+    "waterLevel": 886.56,
+    "percentFull": 58.7
+  },
+  {
+    "date": "2026-04-10",
+    "waterLevel": 886.53,
+    "percentFull": 58.6
+  },
+  {
+    "date": "2026-04-11",
+    "waterLevel": 886.51,
+    "percentFull": 58.6
+  },
+  {
+    "date": "2026-04-12",
+    "waterLevel": 886.48,
+    "percentFull": 58.6
+  },
+  {
+    "date": "2026-04-13",
+    "waterLevel": 886.48,
+    "percentFull": 58.6
+  },
+  {
+    "date": "2026-04-14",
+    "waterLevel": 886.45,
+    "percentFull": 58.5
+  },
+  {
+    "date": "2026-04-15",
+    "waterLevel": 886.42,
+    "percentFull": 58.5
+  },
+  {
+    "date": "2026-04-16",
+    "waterLevel": 886.39,
+    "percentFull": 58.4
+  },
+  {
+    "date": "2026-04-17",
+    "waterLevel": 886.36,
+    "percentFull": 58.4
+  },
+  {
+    "date": "2026-04-18",
+    "waterLevel": 886.34,
+    "percentFull": 58.3
+  },
+  {
+    "date": "2026-04-19",
+    "waterLevel": 886.35,
+    "percentFull": 58.4
+  },
+  {
+    "date": "2026-04-20",
+    "waterLevel": 886.38,
+    "percentFull": 58.4
+  },
+  {
+    "date": "2026-04-21",
+    "waterLevel": 886.47,
+    "percentFull": 58.5
+  },
+  {
+    "date": "2026-04-22",
+    "waterLevel": 886.49,
+    "percentFull": 58.6
+  },
+  {
+    "date": "2026-04-23",
+    "waterLevel": 886.55,
+    "percentFull": 58.7
+  },
+  {
+    "date": "2026-04-24",
+    "waterLevel": 886.6,
+    "percentFull": 58.7
+  },
+  {
+    "date": "2026-04-25",
+    "waterLevel": 886.64,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-04-26",
+    "waterLevel": 886.66,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-04-27",
+    "waterLevel": 886.69,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-04-28",
+    "waterLevel": 886.69,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-04-29",
+    "waterLevel": 886.69,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-04-30",
+    "waterLevel": 886.69,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-05-01",
+    "waterLevel": 886.78,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-05-02",
+    "waterLevel": 886.82,
+    "percentFull": 59.1
+  },
+  {
+    "date": "2026-05-03",
+    "waterLevel": 886.8,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-05-04",
+    "waterLevel": 886.78,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-05-05",
+    "waterLevel": 886.77,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-05-06",
+    "waterLevel": 886.76,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-05-07",
+    "waterLevel": 886.74,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-05-08",
+    "waterLevel": 886.72,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-05-09",
+    "waterLevel": 886.71,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-05-10",
+    "waterLevel": 886.7,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-05-11",
+    "waterLevel": 886.72,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-05-12",
+    "waterLevel": 886.7,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-05-13",
+    "waterLevel": 886.68,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-05-14",
+    "waterLevel": 886.66,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-05-15",
+    "waterLevel": 886.63,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-05-16",
+    "waterLevel": 886.6,
+    "percentFull": 58.7
+  },
+  {
+    "date": "2026-05-17",
+    "waterLevel": 886.58,
+    "percentFull": 58.7
+  },
+  {
+    "date": "2026-05-18",
+    "waterLevel": 886.57,
+    "percentFull": 58.7
+  },
+  {
+    "date": "2026-05-19",
+    "waterLevel": 886.55,
+    "percentFull": 58.7
+  },
+  {
+    "date": "2026-05-20",
+    "waterLevel": 886.6,
+    "percentFull": 58.7
+  },
+  {
+    "date": "2026-05-21",
+    "waterLevel": 886.6,
+    "percentFull": 58.7
+  },
+  {
+    "date": "2026-05-22",
+    "waterLevel": 886.6,
+    "percentFull": 58.7
+  },
+  {
+    "date": "2026-05-23",
+    "waterLevel": 886.61,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-05-24",
+    "waterLevel": 886.62,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-05-25",
+    "waterLevel": 886.62,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-05-26",
+    "waterLevel": 886.61,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-05-27",
+    "waterLevel": 886.66,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-05-28",
+    "waterLevel": 886.71,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-05-29",
+    "waterLevel": 886.77,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-05-30",
+    "waterLevel": 886.8,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-05-31",
+    "waterLevel": 886.81,
+    "percentFull": 59.1
+  },
+  {
+    "date": "2026-06-01",
+    "waterLevel": 886.8,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-06-02",
+    "waterLevel": 886.78,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-06-03",
+    "waterLevel": 886.76,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-06-04",
+    "waterLevel": 886.74,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-06-05",
+    "waterLevel": 886.74,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-06-06",
+    "waterLevel": 886.79,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-06-07",
+    "waterLevel": 886.79,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-06-08",
+    "waterLevel": 886.78,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-06-09",
+    "waterLevel": 886.77,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-06-10",
+    "waterLevel": 886.75,
+    "percentFull": 59
+  },
+  {
+    "date": "2026-06-11",
+    "waterLevel": 886.73,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-06-12",
+    "waterLevel": 886.7,
+    "percentFull": 58.9
+  },
+  {
+    "date": "2026-06-13",
+    "waterLevel": 886.67,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-06-14",
+    "waterLevel": 886.64,
+    "percentFull": 58.8
+  },
+  {
+    "date": "2026-06-15",
+    "waterLevel": 886.96,
+    "percentFull": 59.3
+  },
+  {
+    "date": "2026-06-16",
+    "waterLevel": 887.97,
+    "percentFull": 60.9
+  },
+  {
+    "date": "2026-06-17",
+    "waterLevel": 888.14,
+    "percentFull": 61.1
+  },
+  {
+    "date": "2026-06-18",
+    "waterLevel": 888.19,
+    "percentFull": 61.2
+  },
+  {
+    "date": "2026-06-19",
+    "waterLevel": 888.22,
+    "percentFull": 61.3
+  },
+  {
+    "date": "2026-06-20",
+    "waterLevel": 888.37,
+    "percentFull": 61.5
+  },
+  {
+    "date": "2026-06-21",
+    "waterLevel": 888.47,
+    "percentFull": 61.6
+  },
+  {
+    "date": "2026-06-22",
+    "waterLevel": 888.5,
+    "percentFull": 61.7
+  },
+  {
+    "date": "2026-06-23",
+    "waterLevel": 888.5,
+    "percentFull": 61.7
+  },
+  {
+    "date": "2026-06-24",
+    "waterLevel": 888.5,
+    "percentFull": 61.7
+  },
+  {
+    "date": "2026-06-25",
+    "waterLevel": 888.5,
+    "percentFull": 61.7
+  },
+  {
+    "date": "2026-06-26",
+    "waterLevel": 888.48,
+    "percentFull": 61.7
+  },
+  {
+    "date": "2026-06-27",
+    "waterLevel": 888.44,
+    "percentFull": 61.6
+  },
+  {
+    "date": "2026-06-28",
+    "waterLevel": 888.41,
+    "percentFull": 61.6
+  },
+  {
+    "date": "2026-06-29",
+    "waterLevel": 888.37,
+    "percentFull": 61.5
+  },
+  {
+    "date": "2026-06-30",
+    "waterLevel": 888.33,
+    "percentFull": 61.4
+  },
+  {
+    "date": "2026-07-01",
+    "waterLevel": 888.3,
+    "percentFull": 61.4
+  },
+  {
+    "date": "2026-07-02",
+    "waterLevel": 888.27,
+    "percentFull": 61.3
+  },
+  {
+    "date": "2026-07-03",
+    "waterLevel": 888.24,
+    "percentFull": 61.3
+  },
+  {
+    "date": "2026-07-04",
+    "waterLevel": 888.21,
+    "percentFull": 61.2
+  },
+  {
+    "date": "2026-07-05",
+    "waterLevel": 888.18,
+    "percentFull": 61.2
+  },
+  {
+    "date": "2026-07-06",
+    "waterLevel": 888.15,
+    "percentFull": 61.1
+  },
+  {
+    "date": "2026-07-07",
+    "waterLevel": 888.13,
+    "percentFull": 61.1
+  },
+  {
+    "date": "2026-07-08",
+    "waterLevel": 888.09,
+    "percentFull": 61
+  },
+  {
+    "date": "2026-07-09",
+    "waterLevel": 888.05,
+    "percentFull": 61
+  },
+  {
+    "date": "2026-07-10",
+    "waterLevel": 888,
+    "percentFull": 60.9
+  },
+  {
+    "date": "2026-07-11",
+    "waterLevel": 887.98,
+    "percentFull": 60.9
+  },
+  {
+    "date": "2026-07-12",
+    "waterLevel": 887.99,
+    "percentFull": 60.9
+  },
+  {
+    "date": "2026-07-13",
+    "waterLevel": 887.96,
+    "percentFull": 60.8
+  },
+  {
+    "date": "2026-07-14",
+    "waterLevel": 888,
+    "percentFull": 60.9
+  },
+  {
+    "date": "2026-07-15",
+    "waterLevel": 888.48,
+    "percentFull": 61.7
+  },
+  {
+    "date": "2026-07-16",
+    "waterLevel": 893.19,
+    "percentFull": 69.4
+  },
+  {
+    "date": "2026-07-17",
+    "waterLevel": 903.35,
+    "percentFull": 88.2
+  },
+  {
+    "date": "2026-07-18",
+    "waterLevel": 907.51,
+    "percentFull": 96.8
+  },
+  {
+    "date": "2026-07-19",
+    "waterLevel": 908.31,
+    "percentFull": 98.5
+  },
+  {
+    "date": "2026-07-20",
+    "waterLevel": 908.64,
+    "percentFull": 99.2
+  }
+]

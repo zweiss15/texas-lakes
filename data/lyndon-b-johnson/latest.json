@@ -1,0 +1,13 @@
+{
+  "slug": "lyndon-b-johnson",
+  "name": "Lake LBJ",
+  "city": "Austin",
+  "location": "in the Highland Lakes chain near Austin, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 824.52,
+  "percentFull": 97.3,
+  "percentFullMonthAgo": 97.4,
+  "percentFullYearAgo": 98.1,
+  "conservationCapacity": 112778,
+  "fetchedAt": "2026-07-20T20:17:20.203Z"
+}

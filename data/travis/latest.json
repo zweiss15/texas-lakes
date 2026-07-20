@@ -1,0 +1,13 @@
+{
+  "slug": "travis",
+  "name": "Lake Travis",
+  "city": "Austin",
+  "location": "near Austin, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 684.22,
+  "percentFull": 100,
+  "percentFullMonthAgo": 85.4,
+  "percentFullYearAgo": 90,
+  "conservationCapacity": 1098044,
+  "fetchedAt": "2026-07-20T20:16:54.794Z"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "ray-hubbard",
+  "name": "Lake Ray Hubbard",
+  "city": "Dallas",
+  "location": "near Dallas, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 435.15,
+  "percentFull": 98.3,
+  "percentFullMonthAgo": 100,
+  "percentFullYearAgo": 99.2,
+  "conservationCapacity": 439559,
+  "fetchedAt": "2026-07-20T20:18:31.388Z"
+}

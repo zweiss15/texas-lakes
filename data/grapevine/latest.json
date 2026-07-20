@@ -1,0 +1,13 @@
+{
+  "slug": "grapevine",
+  "name": "Grapevine Lake",
+  "city": "Dallas-Fort Worth",
+  "location": "in the Dallas-Fort Worth area",
+  "date": "2026-07-20",
+  "waterLevel": 535.27,
+  "percentFull": 100,
+  "percentFullMonthAgo": 100,
+  "percentFullYearAgo": 100,
+  "conservationCapacity": 163064,
+  "fetchedAt": "2026-07-20T20:18:26.770Z"
+}

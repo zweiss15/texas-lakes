@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Texas Lakes — Are They Full?</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Anton&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="directory">
+    <h1>Texas Lakes</h1>
+    <p class="subhead">Pick a lake to see how full it is.</p>
+
+    <table id="lakes-table">
+      <thead>
+        <tr>
+          <th data-sort="name">Lake</th>
+          <th data-sort="city">City</th>
+          <th data-sort="percentFull">% Full</th>
+          <th data-sort="percentFullMonthAgo">1 Mo Ago</th>
+          <th data-sort="percentFullYearAgo">1 Yr Ago</th>
+          <th data-sort="conservationCapacity" title="Thousand acre-feet">Size</th>
+        </tr>
+      </thead>
+      <tbody id="lakes-body"></tbody>
+    </table>
+
+    <script src="/js/directory.js"></script>
+  </body>
+</html>

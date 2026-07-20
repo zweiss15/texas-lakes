@@ -1,0 +1,13 @@
+{
+  "slug": "o-c-fisher",
+  "name": "O.C. Fisher Reservoir",
+  "city": "San Angelo",
+  "location": "near San Angelo, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 1874.28,
+  "percentFull": 12.9,
+  "percentFullMonthAgo": 13.6,
+  "percentFullYearAgo": 18.7,
+  "conservationCapacity": 115742,
+  "fetchedAt": "2026-07-20T20:20:10.790Z"
+}

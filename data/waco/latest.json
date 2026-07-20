@@ -1,0 +1,13 @@
+{
+  "slug": "waco",
+  "name": "Lake Waco",
+  "city": "Waco",
+  "location": "in Waco, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 462.07,
+  "percentFull": 99.3,
+  "percentFullMonthAgo": 100,
+  "percentFullYearAgo": 100,
+  "conservationCapacity": 188891,
+  "fetchedAt": "2026-07-20T20:19:41.969Z"
+}

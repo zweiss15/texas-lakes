@@ -1,0 +1,13 @@
+{
+  "slug": "corpus-christi",
+  "name": "Lake Corpus Christi",
+  "city": "Corpus Christi",
+  "location": "near Corpus Christi, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 83.11,
+  "percentFull": 33,
+  "percentFullMonthAgo": 30,
+  "percentFullYearAgo": 20.3,
+  "conservationCapacity": 256062,
+  "fetchedAt": "2026-07-20T20:20:48.782Z"
+}

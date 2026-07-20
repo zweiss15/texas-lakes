@@ -1,0 +1,13 @@
+{
+  "slug": "choke-canyon",
+  "name": "Choke Canyon Reservoir",
+  "city": "Corpus Christi",
+  "location": "near Corpus Christi, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 179.26,
+  "percentFull": 7.9,
+  "percentFullMonthAgo": 8.7,
+  "percentFullYearAgo": 12.7,
+  "conservationCapacity": 662820,
+  "fetchedAt": "2026-07-20T20:17:28.748Z"
+}

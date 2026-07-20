@@ -1,0 +1,13 @@
+{
+  "slug": "falcon",
+  "name": "Falcon Lake",
+  "city": "Zapata",
+  "location": "near Zapata, Texas, on the US-Mexico border",
+  "date": "2026-07-20",
+  "waterLevel": 263.38,
+  "percentFull": 25.5,
+  "percentFullMonthAgo": 26.2,
+  "percentFullYearAgo": 16.5,
+  "conservationCapacity": 1562367,
+  "fetchedAt": "2026-07-20T20:21:29.235Z"
+}

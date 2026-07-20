@@ -1,0 +1,13 @@
+{
+  "slug": "sam-rayburn",
+  "name": "Sam Rayburn Reservoir",
+  "city": "East Texas",
+  "location": "in East Texas",
+  "date": "2026-07-20",
+  "waterLevel": 156.82,
+  "percentFull": 72.7,
+  "percentFullMonthAgo": 71.9,
+  "percentFullYearAgo": 87.2,
+  "conservationCapacity": 2857077,
+  "fetchedAt": "2026-07-20T20:21:05.883Z"
+}

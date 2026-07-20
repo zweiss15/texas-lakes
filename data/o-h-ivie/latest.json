@@ -1,0 +1,13 @@
+{
+  "slug": "o-h-ivie",
+  "name": "O.H. Ivie Reservoir",
+  "city": "San Angelo",
+  "location": "near San Angelo, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 1532.1,
+  "percentFull": 46.9,
+  "percentFullMonthAgo": 48.5,
+  "percentFullYearAgo": 54.7,
+  "conservationCapacity": 554340,
+  "fetchedAt": "2026-07-20T20:20:25.231Z"
+}

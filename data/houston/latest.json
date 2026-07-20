@@ -1,0 +1,13 @@
+{
+  "slug": "houston",
+  "name": "Lake Houston",
+  "city": "Houston",
+  "location": "in Houston, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 42.21,
+  "percentFull": 98.5,
+  "percentFullMonthAgo": 100,
+  "percentFullYearAgo": 100,
+  "conservationCapacity": 132318,
+  "fetchedAt": "2026-07-20T20:17:53.539Z"
+}

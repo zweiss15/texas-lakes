@@ -1,0 +1,13 @@
+{
+  "slug": "amistad",
+  "name": "Amistad Reservoir",
+  "city": "Del Rio",
+  "location": "near Del Rio, Texas, on the US-Mexico border",
+  "date": "2026-07-20",
+  "waterLevel": 1054.67,
+  "percentFull": 35.3,
+  "percentFullMonthAgo": 29.5,
+  "percentFullYearAgo": 32.1,
+  "conservationCapacity": 1813408,
+  "fetchedAt": "2026-07-20T20:21:18.996Z"
+}

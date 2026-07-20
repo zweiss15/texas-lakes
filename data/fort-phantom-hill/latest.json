@@ -1,0 +1,13 @@
+{
+  "slug": "fort-phantom-hill",
+  "name": "Fort Phantom Hill Reservoir",
+  "city": "Abilene",
+  "location": "near Abilene, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 1631.29,
+  "percentFull": 76.6,
+  "percentFullMonthAgo": 78.1,
+  "percentFullYearAgo": 84.8,
+  "conservationCapacity": 70030,
+  "fetchedAt": "2026-07-20T20:19:52.275Z"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "texoma",
+  "name": "Lake Texoma",
+  "city": "Sherman-Denison",
+  "location": "on the Texas-Oklahoma border",
+  "date": "2026-07-20",
+  "waterLevel": 618.6,
+  "percentFull": 100,
+  "percentFullMonthAgo": 100,
+  "percentFullYearAgo": 100,
+  "conservationCapacity": 1243801,
+  "fetchedAt": "2026-07-20T20:21:40.061Z"
+}

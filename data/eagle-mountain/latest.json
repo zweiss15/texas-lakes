@@ -1,0 +1,13 @@
+{
+  "slug": "eagle-mountain",
+  "name": "Eagle Mountain Lake",
+  "city": "Fort Worth",
+  "location": "near Fort Worth, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 646.14,
+  "percentFull": 86,
+  "percentFullMonthAgo": 95.5,
+  "percentFullYearAgo": 99,
+  "conservationCapacity": 185087,
+  "fetchedAt": "2026-07-20T20:19:28.296Z"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "somerville",
+  "name": "Lake Somerville",
+  "city": "College Station",
+  "location": "near College Station, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 240.38,
+  "percentFull": 100,
+  "percentFullMonthAgo": 100,
+  "percentFullYearAgo": 100,
+  "conservationCapacity": 150293,
+  "fetchedAt": "2026-07-20T20:18:01.073Z"
+}

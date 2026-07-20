@@ -1,0 +1,13 @@
+{
+  "slug": "livingston",
+  "name": "Lake Livingston",
+  "city": "Houston",
+  "location": "near Houston, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 131.13,
+  "percentFull": 100,
+  "percentFullMonthAgo": 100,
+  "percentFullYearAgo": 100,
+  "conservationCapacity": 1603504,
+  "fetchedAt": "2026-07-20T20:17:44.196Z"
+}

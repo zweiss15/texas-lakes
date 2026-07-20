@@ -1,0 +1,13 @@
+{
+  "slug": "bridgeport",
+  "name": "Lake Bridgeport",
+  "city": "Fort Worth",
+  "location": "near Fort Worth, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 831.44,
+  "percentFull": 85.6,
+  "percentFullMonthAgo": 88,
+  "percentFullYearAgo": 99,
+  "conservationCapacity": 372183,
+  "fetchedAt": "2026-07-20T20:19:34.247Z"
+}

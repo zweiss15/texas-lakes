@@ -1,0 +1,13 @@
+{
+  "slug": "twin-buttes",
+  "name": "Twin Buttes Reservoir",
+  "city": "San Angelo",
+  "location": "near San Angelo, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 1900.15,
+  "percentFull": 8.1,
+  "percentFullMonthAgo": 9.1,
+  "percentFullYearAgo": 16,
+  "conservationCapacity": 182454,
+  "fetchedAt": "2026-07-20T20:20:19.394Z"
+}

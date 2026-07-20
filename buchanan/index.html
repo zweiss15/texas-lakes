@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Is This Lake Full Yet?</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Anton&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <a class="back-link" href="/">&larr; All Texas Lakes</a>
+
+    <div id="tagline">Loading&hellip;</div>
+
+    <div id="text">
+      <span id="status">Loading&hellip;</span>
+    </div>
+    <div id="location"></div>
+    <div id="percent"></div>
+    <div id="timestamp"></div>
+
+    <div class="chart-controls">
+      <button type="button" data-range="7">1 Week</button>
+      <button type="button" data-range="365">1 Year</button>
+    </div>
+    <div class="chart-wrap">
+      <svg id="chart" viewBox="0 0 600 220"></svg>
+      <div id="chart-tooltip"></div>
+    </div>
+
+    <script src="/js/lake.js"></script>
+  </body>
+</html>

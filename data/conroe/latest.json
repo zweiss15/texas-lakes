@@ -1,0 +1,13 @@
+{
+  "slug": "conroe",
+  "name": "Lake Conroe",
+  "city": "Houston",
+  "location": "near Houston, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 201.01,
+  "percentFull": 100,
+  "percentFullMonthAgo": 100,
+  "percentFullYearAgo": 100,
+  "conservationCapacity": 417577,
+  "fetchedAt": "2026-07-20T20:17:36.357Z"
+}

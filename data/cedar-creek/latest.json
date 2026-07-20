@@ -1,0 +1,13 @@
+{
+  "slug": "cedar-creek",
+  "name": "Cedar Creek Reservoir",
+  "city": "Dallas",
+  "location": "southeast of Dallas, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 318.62,
+  "percentFull": 83.7,
+  "percentFullMonthAgo": 86.2,
+  "percentFullYearAgo": 98.2,
+  "conservationCapacity": 644686,
+  "fetchedAt": "2026-07-20T20:18:57.554Z"
+}

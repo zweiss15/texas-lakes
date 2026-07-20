@@ -1,0 +1,13 @@
+{
+  "slug": "lavon",
+  "name": "Lavon Lake",
+  "city": "Dallas",
+  "location": "near Dallas, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 491.95,
+  "percentFull": 99.7,
+  "percentFullMonthAgo": 100,
+  "percentFullYearAgo": 100,
+  "conservationCapacity": 409757,
+  "fetchedAt": "2026-07-20T20:18:41.085Z"
+}

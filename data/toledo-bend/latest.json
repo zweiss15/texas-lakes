@@ -1,0 +1,13 @@
+{
+  "slug": "toledo-bend",
+  "name": "Toledo Bend Reservoir",
+  "city": "East Texas",
+  "location": "on the Texas-Louisiana border",
+  "date": "2026-07-20",
+  "waterLevel": 170.38,
+  "percentFull": 94.1,
+  "percentFullMonthAgo": 95.7,
+  "percentFullYearAgo": 96.9,
+  "conservationCapacity": 2236450,
+  "fetchedAt": "2026-07-20T20:20:57.368Z"
+}

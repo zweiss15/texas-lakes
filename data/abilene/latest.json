@@ -1,0 +1,13 @@
+{
+  "slug": "abilene",
+  "name": "Lake Abilene",
+  "city": "Abilene",
+  "location": "near Abilene, Texas",
+  "date": "2026-07-20",
+  "waterLevel": 1994.75,
+  "percentFull": 14.1,
+  "percentFullMonthAgo": 9.5,
+  "percentFullYearAgo": 5.2,
+  "conservationCapacity": 7900,
+  "fetchedAt": "2026-07-20T20:19:45.908Z"
+}

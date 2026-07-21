@@ -18,19 +18,21 @@
     <h1>Texas Lakes</h1>
     <p class="subhead">Pick a lake to see how full it is.</p>
 
-    <table id="lakes-table">
-      <thead>
-        <tr>
-          <th data-sort="name">Lake</th>
-          <th data-sort="city">City</th>
-          <th data-sort="percentFull">% Full</th>
-          <th data-sort="percentFullMonthAgo">1 Mo Ago</th>
-          <th data-sort="percentFullYearAgo">1 Yr Ago</th>
-          <th data-sort="conservationCapacity" title="Thousand acre-feet">Size</th>
-        </tr>
-      </thead>
-      <tbody id="lakes-body"></tbody>
-    </table>
+    <div class="table-wrap">
+      <table id="lakes-table">
+        <thead>
+          <tr>
+            <th data-sort="name">Lake</th>
+            <th data-sort="city">City</th>
+            <th data-sort="percentFull">% Full</th>
+            <th data-sort="percentFullMonthAgo">1 Mo Ago</th>
+            <th data-sort="percentFullYearAgo">1 Yr Ago</th>
+            <th data-sort="conservationCapacity" title="Thousand acre-feet">Size</th>
+          </tr>
+        </thead>
+        <tbody id="lakes-body"></tbody>
+      </table>
+    </div>
 
     <script src="/js/directory.js"></script>
   </body>

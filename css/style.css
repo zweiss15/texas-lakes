@@ -196,8 +196,14 @@ body.directory h1 {
   margin-bottom: 2rem;
 }
 
-#lakes-table {
+.table-wrap {
   width: min(94vw, 720px);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+#lakes-table {
+  width: 100%;
   border-collapse: collapse;
   font-size: 0.9rem;
 }

@@ -51,8 +51,8 @@ function renderChartData(data) {
   if (!data || data.length === 0) return;
 
   const width = 600;
-  const height = 220;
-  const padding = { top: 10, right: 10, bottom: 8, left: 28 };
+  const height = 230;
+  const padding = { top: 28, right: 10, bottom: 8, left: 28 };
   const plotWidth = width - padding.left - padding.right;
   const plotHeight = height - padding.top - padding.bottom;
 

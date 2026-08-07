@@ -3,11 +3,12 @@
   "name": "Lake Waco",
   "city": "Waco",
   "location": "in Waco, Texas",
-  "date": "2026-07-20",
-  "waterLevel": 462.07,
-  "percentFull": 99.3,
-  "percentFullMonthAgo": 100,
+  "date": "2026-08-07",
+  "waterLevel": 461.33,
+  "percentFull": 96.1,
+  "percentFullMonthAgo": 99.3,
   "percentFullYearAgo": 100,
   "conservationCapacity": 188891,
-  "fetchedAt": "2026-07-20T20:19:41.969Z"
+  "recordStartDate": "1995-10-03",
+  "fetchedAt": "2026-08-07T18:53:08.403Z"
 }

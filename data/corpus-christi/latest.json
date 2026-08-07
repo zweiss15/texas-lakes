@@ -3,11 +3,12 @@
   "name": "Lake Corpus Christi",
   "city": "Corpus Christi",
   "location": "near Corpus Christi, Texas",
-  "date": "2026-07-20",
-  "waterLevel": 83.11,
-  "percentFull": 33,
-  "percentFullMonthAgo": 30,
-  "percentFullYearAgo": 20.3,
+  "date": "2026-08-07",
+  "waterLevel": 92.18,
+  "percentFull": 86.3,
+  "percentFullMonthAgo": 34.4,
+  "percentFullYearAgo": 19.4,
   "conservationCapacity": 256062,
-  "fetchedAt": "2026-07-20T20:20:48.782Z"
+  "recordStartDate": "1998-09-01",
+  "fetchedAt": "2026-08-07T18:54:04.395Z"
 }

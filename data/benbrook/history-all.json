@@ -1,0 +1,2212 @@
+[
+  {
+    "date": "1988-09-30",
+    "waterLevel": 686.63,
+    "percentFull": 71.3
+  },
+  {
+    "date": "1988-10-31",
+    "waterLevel": 686.34,
+    "percentFull": 70.3
+  },
+  {
+    "date": "1988-11-30",
+    "waterLevel": 685.99,
+    "percentFull": 69
+  },
+  {
+    "date": "1988-12-31",
+    "waterLevel": 685.76,
+    "percentFull": 68.2
+  },
+  {
+    "date": "1989-01-31",
+    "waterLevel": 685.8,
+    "percentFull": 68.4
+  },
+  {
+    "date": "1989-02-28",
+    "waterLevel": 687.02,
+    "percentFull": 72.7
+  },
+  {
+    "date": "1989-03-31",
+    "waterLevel": 689.21,
+    "percentFull": 80.8
+  },
+  {
+    "date": "1989-04-30",
+    "waterLevel": 694.83,
+    "percentFull": 100
+  },
+  {
+    "date": "1989-05-29",
+    "waterLevel": 702.46,
+    "percentFull": 100
+  },
+  {
+    "date": "1989-06-30",
+    "waterLevel": 712.37,
+    "percentFull": 100
+  },
+  {
+    "date": "1989-07-31",
+    "waterLevel": 698.09,
+    "percentFull": 100
+  },
+  {
+    "date": "1989-08-31",
+    "waterLevel": 694.31,
+    "percentFull": 100
+  },
+  {
+    "date": "1989-09-30",
+    "waterLevel": 693.84,
+    "percentFull": 99.3
+  },
+  {
+    "date": "1989-10-31",
+    "waterLevel": 692.94,
+    "percentFull": 95.5
+  },
+  {
+    "date": "1989-11-30",
+    "waterLevel": 692.51,
+    "percentFull": 93.8
+  },
+  {
+    "date": "1989-12-31",
+    "waterLevel": 692.2,
+    "percentFull": 92.5
+  },
+  {
+    "date": "1990-01-31",
+    "waterLevel": 692.25,
+    "percentFull": 92.7
+  },
+  {
+    "date": "1990-02-28",
+    "waterLevel": 693.29,
+    "percentFull": 97
+  },
+  {
+    "date": "1990-03-31",
+    "waterLevel": 696.65,
+    "percentFull": 99.8
+  },
+  {
+    "date": "1990-04-30",
+    "waterLevel": 699.19,
+    "percentFull": 100
+  },
+  {
+    "date": "1990-05-31",
+    "waterLevel": 709.9,
+    "percentFull": 100
+  },
+  {
+    "date": "1990-06-30",
+    "waterLevel": 696.41,
+    "percentFull": 100
+  },
+  {
+    "date": "1990-07-31",
+    "waterLevel": 693.7,
+    "percentFull": 98.5
+  },
+  {
+    "date": "1990-08-31",
+    "waterLevel": 693.25,
+    "percentFull": 96.8
+  },
+  {
+    "date": "1990-09-27",
+    "waterLevel": 692.49,
+    "percentFull": 93.7
+  },
+  {
+    "date": "1990-10-31",
+    "waterLevel": 691.54,
+    "percentFull": 89.8
+  },
+  {
+    "date": "1990-11-30",
+    "waterLevel": 691.5,
+    "percentFull": 89.7
+  },
+  {
+    "date": "1990-12-31",
+    "waterLevel": 691.6,
+    "percentFull": 90.1
+  },
+  {
+    "date": "1991-01-31",
+    "waterLevel": 691.98,
+    "percentFull": 91.6
+  },
+  {
+    "date": "1991-02-27",
+    "waterLevel": 692.94,
+    "percentFull": 95.6
+  },
+  {
+    "date": "1991-03-30",
+    "waterLevel": 693.43,
+    "percentFull": 97.6
+  },
+  {
+    "date": "1991-04-30",
+    "waterLevel": 694.08,
+    "percentFull": 99.5
+  },
+  {
+    "date": "1991-05-31",
+    "waterLevel": 694.31,
+    "percentFull": 100
+  },
+  {
+    "date": "1991-06-30",
+    "waterLevel": 694.35,
+    "percentFull": 100
+  },
+  {
+    "date": "1991-07-31",
+    "waterLevel": 693.6,
+    "percentFull": 98.3
+  },
+  {
+    "date": "1991-08-31",
+    "waterLevel": 693.78,
+    "percentFull": 99
+  },
+  {
+    "date": "1991-09-30",
+    "waterLevel": 694.01,
+    "percentFull": 99.9
+  },
+  {
+    "date": "1991-10-30",
+    "waterLevel": 694.82,
+    "percentFull": 99.3
+  },
+  {
+    "date": "1991-11-30",
+    "waterLevel": 701.42,
+    "percentFull": 100
+  },
+  {
+    "date": "1991-12-31",
+    "waterLevel": 699.61,
+    "percentFull": 100
+  },
+  {
+    "date": "1992-01-27",
+    "waterLevel": 702.3,
+    "percentFull": 100
+  },
+  {
+    "date": "1992-02-29",
+    "waterLevel": 694.77,
+    "percentFull": 100
+  },
+  {
+    "date": "1992-03-30",
+    "waterLevel": 694.98,
+    "percentFull": 100
+  },
+  {
+    "date": "1992-04-30",
+    "waterLevel": 694.16,
+    "percentFull": 100
+  },
+  {
+    "date": "1992-05-31",
+    "waterLevel": 694.25,
+    "percentFull": 100
+  },
+  {
+    "date": "1992-06-30",
+    "waterLevel": 694.26,
+    "percentFull": 100
+  },
+  {
+    "date": "1992-07-31",
+    "waterLevel": 693.87,
+    "percentFull": 99.2
+  },
+  {
+    "date": "1992-08-31",
+    "waterLevel": 693.67,
+    "percentFull": 98.6
+  },
+  {
+    "date": "1992-09-30",
+    "waterLevel": 693.22,
+    "percentFull": 96.7
+  },
+  {
+    "date": "1992-10-31",
+    "waterLevel": 692.33,
+    "percentFull": 93
+  },
+  {
+    "date": "1992-11-30",
+    "waterLevel": 692.27,
+    "percentFull": 92.8
+  },
+  {
+    "date": "1992-12-31",
+    "waterLevel": 693.59,
+    "percentFull": 97.5
+  },
+  {
+    "date": "1993-01-31",
+    "waterLevel": 694.28,
+    "percentFull": 100
+  },
+  {
+    "date": "1993-02-28",
+    "waterLevel": 694.63,
+    "percentFull": 100
+  },
+  {
+    "date": "1993-03-31",
+    "waterLevel": 695.07,
+    "percentFull": 100
+  },
+  {
+    "date": "1993-04-30",
+    "waterLevel": 694.22,
+    "percentFull": 100
+  },
+  {
+    "date": "1993-05-28",
+    "waterLevel": 694.42,
+    "percentFull": 100
+  },
+  {
+    "date": "1993-06-30",
+    "waterLevel": 694.11,
+    "percentFull": 100
+  },
+  {
+    "date": "1993-07-31",
+    "waterLevel": 693.74,
+    "percentFull": 98.7
+  },
+  {
+    "date": "1993-08-31",
+    "waterLevel": 692.33,
+    "percentFull": 93
+  },
+  {
+    "date": "1993-09-30",
+    "waterLevel": 691.31,
+    "percentFull": 88.9
+  },
+  {
+    "date": "1993-10-01",
+    "waterLevel": 691.19,
+    "percentFull": 88.4
+  },
+  {
+    "date": "1994-10-31",
+    "waterLevel": 692.33,
+    "percentFull": 93
+  },
+  {
+    "date": "1994-11-30",
+    "waterLevel": 694.57,
+    "percentFull": 99.4
+  },
+  {
+    "date": "1994-12-31",
+    "waterLevel": 694.54,
+    "percentFull": 100
+  },
+  {
+    "date": "1995-01-31",
+    "waterLevel": 694.35,
+    "percentFull": 100
+  },
+  {
+    "date": "1995-02-28",
+    "waterLevel": 694.2,
+    "percentFull": 100
+  },
+  {
+    "date": "1995-03-31",
+    "waterLevel": 694.69,
+    "percentFull": 100
+  },
+  {
+    "date": "1995-04-30",
+    "waterLevel": 694.42,
+    "percentFull": 100
+  },
+  {
+    "date": "1995-05-31",
+    "waterLevel": 697.52,
+    "percentFull": 100
+  },
+  {
+    "date": "1995-06-22",
+    "waterLevel": 694.21,
+    "percentFull": 100
+  },
+  {
+    "date": "1995-10-31",
+    "waterLevel": 693.94,
+    "percentFull": 99.6
+  },
+  {
+    "date": "1995-11-30",
+    "waterLevel": 693.68,
+    "percentFull": 98.7
+  },
+  {
+    "date": "1995-12-31",
+    "waterLevel": 693.47,
+    "percentFull": 97.8
+  },
+  {
+    "date": "1996-01-31",
+    "waterLevel": 693.84,
+    "percentFull": 99.4
+  },
+  {
+    "date": "1996-02-29",
+    "waterLevel": 693.98,
+    "percentFull": 99.9
+  },
+  {
+    "date": "1996-03-31",
+    "waterLevel": 693.99,
+    "percentFull": 99.9
+  },
+  {
+    "date": "1996-04-30",
+    "waterLevel": 694.2,
+    "percentFull": 100
+  },
+  {
+    "date": "1996-05-31",
+    "waterLevel": 693.89,
+    "percentFull": 99.5
+  },
+  {
+    "date": "1996-06-30",
+    "waterLevel": 693.39,
+    "percentFull": 97.5
+  },
+  {
+    "date": "1996-07-31",
+    "waterLevel": 692.9,
+    "percentFull": 95.4
+  },
+  {
+    "date": "1996-08-31",
+    "waterLevel": 692.58,
+    "percentFull": 94
+  },
+  {
+    "date": "1996-09-30",
+    "waterLevel": 693.98,
+    "percentFull": 99.6
+  },
+  {
+    "date": "1996-10-31",
+    "waterLevel": 693.64,
+    "percentFull": 98.5
+  },
+  {
+    "date": "1996-11-30",
+    "waterLevel": 695.08,
+    "percentFull": 100
+  },
+  {
+    "date": "1996-12-31",
+    "waterLevel": 694.9,
+    "percentFull": 100
+  },
+  {
+    "date": "1997-01-31",
+    "waterLevel": 694.17,
+    "percentFull": 100
+  },
+  {
+    "date": "1997-02-28",
+    "waterLevel": 698.67,
+    "percentFull": 100
+  },
+  {
+    "date": "1997-03-31",
+    "waterLevel": 701.16,
+    "percentFull": 100
+  },
+  {
+    "date": "1997-04-30",
+    "waterLevel": 695.3,
+    "percentFull": 100
+  },
+  {
+    "date": "1997-05-31",
+    "waterLevel": 694.7,
+    "percentFull": 100
+  },
+  {
+    "date": "1997-06-30",
+    "waterLevel": 694.26,
+    "percentFull": 100
+  },
+  {
+    "date": "1997-07-31",
+    "waterLevel": 694.36,
+    "percentFull": 100
+  },
+  {
+    "date": "1997-08-31",
+    "waterLevel": 694.03,
+    "percentFull": 99.7
+  },
+  {
+    "date": "1997-09-30",
+    "waterLevel": 693.23,
+    "percentFull": 96.8
+  },
+  {
+    "date": "1997-10-31",
+    "waterLevel": 692.8,
+    "percentFull": 94.9
+  },
+  {
+    "date": "1997-11-30",
+    "waterLevel": 692.99,
+    "percentFull": 95.7
+  },
+  {
+    "date": "1997-12-31",
+    "waterLevel": 693.8,
+    "percentFull": 98.1
+  },
+  {
+    "date": "1998-01-31",
+    "waterLevel": 695.14,
+    "percentFull": 100
+  },
+  {
+    "date": "1998-02-28",
+    "waterLevel": 694.64,
+    "percentFull": 100
+  },
+  {
+    "date": "1998-03-31",
+    "waterLevel": 699.17,
+    "percentFull": 100
+  },
+  {
+    "date": "1998-04-30",
+    "waterLevel": 694.45,
+    "percentFull": 100
+  },
+  {
+    "date": "1998-05-31",
+    "waterLevel": 694.24,
+    "percentFull": 100
+  },
+  {
+    "date": "1998-06-30",
+    "waterLevel": 694.02,
+    "percentFull": 99.7
+  },
+  {
+    "date": "1998-07-31",
+    "waterLevel": 693,
+    "percentFull": 95.8
+  },
+  {
+    "date": "1998-08-31",
+    "waterLevel": 690.97,
+    "percentFull": 87.6
+  },
+  {
+    "date": "1998-09-30",
+    "waterLevel": 688.94,
+    "percentFull": 79.8
+  },
+  {
+    "date": "1998-10-31",
+    "waterLevel": 688.62,
+    "percentFull": 78.6
+  },
+  {
+    "date": "1998-11-30",
+    "waterLevel": 689.05,
+    "percentFull": 80.3
+  },
+  {
+    "date": "1998-12-31",
+    "waterLevel": 690.91,
+    "percentFull": 87.4
+  },
+  {
+    "date": "1999-01-31",
+    "waterLevel": 691.94,
+    "percentFull": 91.4
+  },
+  {
+    "date": "1999-02-28",
+    "waterLevel": 692.72,
+    "percentFull": 94.6
+  },
+  {
+    "date": "1999-03-31",
+    "waterLevel": 693.32,
+    "percentFull": 97.1
+  },
+  {
+    "date": "1999-04-30",
+    "waterLevel": 694.1,
+    "percentFull": 99.9
+  },
+  {
+    "date": "1999-05-31",
+    "waterLevel": 694.34,
+    "percentFull": 100
+  },
+  {
+    "date": "1999-06-30",
+    "waterLevel": 694.11,
+    "percentFull": 99.5
+  },
+  {
+    "date": "1999-07-31",
+    "waterLevel": 692.52,
+    "percentFull": 93.8
+  },
+  {
+    "date": "1999-08-31",
+    "waterLevel": 689.33,
+    "percentFull": 81.3
+  },
+  {
+    "date": "1999-09-30",
+    "waterLevel": 686.31,
+    "percentFull": 70.4
+  },
+  {
+    "date": "1999-10-31",
+    "waterLevel": 685.05,
+    "percentFull": 66.2
+  },
+  {
+    "date": "1999-11-30",
+    "waterLevel": 685.81,
+    "percentFull": 68.7
+  },
+  {
+    "date": "1999-12-31",
+    "waterLevel": 686.85,
+    "percentFull": 72.3
+  },
+  {
+    "date": "2000-01-31",
+    "waterLevel": 688.48,
+    "percentFull": 78.1
+  },
+  {
+    "date": "2000-02-29",
+    "waterLevel": 688.94,
+    "percentFull": 79.8
+  },
+  {
+    "date": "2000-03-31",
+    "waterLevel": 689.73,
+    "percentFull": 82.8
+  },
+  {
+    "date": "2000-04-30",
+    "waterLevel": 691.67,
+    "percentFull": 90.4
+  },
+  {
+    "date": "2000-05-31",
+    "waterLevel": 693.03,
+    "percentFull": 95.9
+  },
+  {
+    "date": "2000-06-30",
+    "waterLevel": 696.15,
+    "percentFull": 99.5
+  },
+  {
+    "date": "2000-07-31",
+    "waterLevel": 692.8,
+    "percentFull": 94.8
+  },
+  {
+    "date": "2000-08-31",
+    "waterLevel": 688.7,
+    "percentFull": 79
+  },
+  {
+    "date": "2000-09-30",
+    "waterLevel": 684.18,
+    "percentFull": 63.3
+  },
+  {
+    "date": "2000-10-31",
+    "waterLevel": 682.14,
+    "percentFull": 56.8
+  },
+  {
+    "date": "2000-11-30",
+    "waterLevel": 682.66,
+    "percentFull": 58.4
+  },
+  {
+    "date": "2000-12-31",
+    "waterLevel": 684.45,
+    "percentFull": 64.2
+  },
+  {
+    "date": "2001-01-31",
+    "waterLevel": 687.9,
+    "percentFull": 76.1
+  },
+  {
+    "date": "2001-02-28",
+    "waterLevel": 694.54,
+    "percentFull": 94.8
+  },
+  {
+    "date": "2001-03-31",
+    "waterLevel": 698.92,
+    "percentFull": 100
+  },
+  {
+    "date": "2001-04-30",
+    "waterLevel": 695.07,
+    "percentFull": 100
+  },
+  {
+    "date": "2001-05-31",
+    "waterLevel": 693.87,
+    "percentFull": 99
+  },
+  {
+    "date": "2001-06-30",
+    "waterLevel": 693.09,
+    "percentFull": 96.2
+  },
+  {
+    "date": "2001-07-31",
+    "waterLevel": 691.46,
+    "percentFull": 89.5
+  },
+  {
+    "date": "2001-08-31",
+    "waterLevel": 687.93,
+    "percentFull": 76.2
+  },
+  {
+    "date": "2001-09-30",
+    "waterLevel": 687.85,
+    "percentFull": 75.8
+  },
+  {
+    "date": "2001-10-31",
+    "waterLevel": 688.25,
+    "percentFull": 77.3
+  },
+  {
+    "date": "2001-11-30",
+    "waterLevel": 688.4,
+    "percentFull": 77.8
+  },
+  {
+    "date": "2001-12-31",
+    "waterLevel": 689.18,
+    "percentFull": 80.7
+  },
+  {
+    "date": "2002-01-31",
+    "waterLevel": 689.52,
+    "percentFull": 82
+  },
+  {
+    "date": "2002-02-28",
+    "waterLevel": 691.91,
+    "percentFull": 91.3
+  },
+  {
+    "date": "2002-03-31",
+    "waterLevel": 694.16,
+    "percentFull": 97.1
+  },
+  {
+    "date": "2002-04-30",
+    "waterLevel": 695.68,
+    "percentFull": 99.9
+  },
+  {
+    "date": "2002-05-31",
+    "waterLevel": 694.04,
+    "percentFull": 99.6
+  },
+  {
+    "date": "2002-06-30",
+    "waterLevel": 693.4,
+    "percentFull": 97.5
+  },
+  {
+    "date": "2002-07-31",
+    "waterLevel": 692.6,
+    "percentFull": 94.1
+  },
+  {
+    "date": "2002-08-31",
+    "waterLevel": 691.38,
+    "percentFull": 89.2
+  },
+  {
+    "date": "2002-09-30",
+    "waterLevel": 689.74,
+    "percentFull": 82.8
+  },
+  {
+    "date": "2002-10-31",
+    "waterLevel": 689.9,
+    "percentFull": 83.5
+  },
+  {
+    "date": "2002-11-30",
+    "waterLevel": 691.7,
+    "percentFull": 90.5
+  },
+  {
+    "date": "2002-12-29",
+    "waterLevel": 692.31,
+    "percentFull": 92.9
+  },
+  {
+    "date": "2003-01-31",
+    "waterLevel": 693.81,
+    "percentFull": 99.1
+  },
+  {
+    "date": "2003-02-28",
+    "waterLevel": 694.47,
+    "percentFull": 100
+  },
+  {
+    "date": "2003-03-31",
+    "waterLevel": 694.7,
+    "percentFull": 100
+  },
+  {
+    "date": "2003-04-30",
+    "waterLevel": 693.83,
+    "percentFull": 99
+  },
+  {
+    "date": "2003-05-31",
+    "waterLevel": 693.07,
+    "percentFull": 96.1
+  },
+  {
+    "date": "2003-06-30",
+    "waterLevel": 693.36,
+    "percentFull": 97.3
+  },
+  {
+    "date": "2003-07-31",
+    "waterLevel": 692.35,
+    "percentFull": 93.1
+  },
+  {
+    "date": "2003-08-31",
+    "waterLevel": 690.12,
+    "percentFull": 84.3
+  },
+  {
+    "date": "2003-09-30",
+    "waterLevel": 689.32,
+    "percentFull": 81.3
+  },
+  {
+    "date": "2003-10-31",
+    "waterLevel": 689.95,
+    "percentFull": 83.6
+  },
+  {
+    "date": "2003-11-30",
+    "waterLevel": 690.13,
+    "percentFull": 84.3
+  },
+  {
+    "date": "2003-12-31",
+    "waterLevel": 690.23,
+    "percentFull": 84.7
+  },
+  {
+    "date": "2004-01-31",
+    "waterLevel": 691.64,
+    "percentFull": 90.3
+  },
+  {
+    "date": "2004-02-29",
+    "waterLevel": 693.54,
+    "percentFull": 97.9
+  },
+  {
+    "date": "2004-03-31",
+    "waterLevel": 694.27,
+    "percentFull": 99.8
+  },
+  {
+    "date": "2004-04-30",
+    "waterLevel": 692.65,
+    "percentFull": 94.3
+  },
+  {
+    "date": "2004-05-31",
+    "waterLevel": 694.57,
+    "percentFull": 100
+  },
+  {
+    "date": "2004-06-29",
+    "waterLevel": 700.68,
+    "percentFull": 100
+  },
+  {
+    "date": "2004-07-31",
+    "waterLevel": 694.08,
+    "percentFull": 98.5
+  },
+  {
+    "date": "2004-08-31",
+    "waterLevel": 692.26,
+    "percentFull": 92.7
+  },
+  {
+    "date": "2004-09-30",
+    "waterLevel": 690.92,
+    "percentFull": 87.4
+  },
+  {
+    "date": "2004-10-31",
+    "waterLevel": 690.78,
+    "percentFull": 86.8
+  },
+  {
+    "date": "2004-11-30",
+    "waterLevel": 693.39,
+    "percentFull": 95.8
+  },
+  {
+    "date": "2004-12-31",
+    "waterLevel": 694.95,
+    "percentFull": 100
+  },
+  {
+    "date": "2005-01-31",
+    "waterLevel": 693.92,
+    "percentFull": 99.2
+  },
+  {
+    "date": "2005-02-28",
+    "waterLevel": 693.89,
+    "percentFull": 99.5
+  },
+  {
+    "date": "2005-03-31",
+    "waterLevel": 694.16,
+    "percentFull": 99.7
+  },
+  {
+    "date": "2005-04-30",
+    "waterLevel": 694.15,
+    "percentFull": 99.7
+  },
+  {
+    "date": "2005-05-31",
+    "waterLevel": 693.49,
+    "percentFull": 97.8
+  },
+  {
+    "date": "2005-06-30",
+    "waterLevel": 692.43,
+    "percentFull": 93.5
+  },
+  {
+    "date": "2005-07-31",
+    "waterLevel": 690.25,
+    "percentFull": 84.8
+  },
+  {
+    "date": "2005-08-31",
+    "waterLevel": 687.62,
+    "percentFull": 75
+  },
+  {
+    "date": "2005-09-30",
+    "waterLevel": 685,
+    "percentFull": 66
+  },
+  {
+    "date": "2005-10-31",
+    "waterLevel": 683.02,
+    "percentFull": 59.5
+  },
+  {
+    "date": "2005-11-30",
+    "waterLevel": 682.02,
+    "percentFull": 56.4
+  },
+  {
+    "date": "2005-12-31",
+    "waterLevel": 680.7,
+    "percentFull": 52.4
+  },
+  {
+    "date": "2006-01-31",
+    "waterLevel": 680.3,
+    "percentFull": 51.2
+  },
+  {
+    "date": "2006-02-28",
+    "waterLevel": 682.26,
+    "percentFull": 57.2
+  },
+  {
+    "date": "2006-03-31",
+    "waterLevel": 686.39,
+    "percentFull": 70.9
+  },
+  {
+    "date": "2006-04-30",
+    "waterLevel": 689.75,
+    "percentFull": 82.8
+  },
+  {
+    "date": "2006-05-31",
+    "waterLevel": 691.62,
+    "percentFull": 90.2
+  },
+  {
+    "date": "2006-06-30",
+    "waterLevel": 690.61,
+    "percentFull": 86.2
+  },
+  {
+    "date": "2006-07-31",
+    "waterLevel": 688.29,
+    "percentFull": 77.5
+  },
+  {
+    "date": "2006-08-31",
+    "waterLevel": 684.86,
+    "percentFull": 65.6
+  },
+  {
+    "date": "2006-09-30",
+    "waterLevel": 682.27,
+    "percentFull": 57.2
+  },
+  {
+    "date": "2006-10-31",
+    "waterLevel": 682.21,
+    "percentFull": 57
+  },
+  {
+    "date": "2006-11-30",
+    "waterLevel": 684.48,
+    "percentFull": 64.3
+  },
+  {
+    "date": "2006-12-31",
+    "waterLevel": 686.43,
+    "percentFull": 70.9
+  },
+  {
+    "date": "2007-01-31",
+    "waterLevel": 690.3,
+    "percentFull": 85
+  },
+  {
+    "date": "2007-02-28",
+    "waterLevel": 691.81,
+    "percentFull": 90.9
+  },
+  {
+    "date": "2007-03-31",
+    "waterLevel": 692.22,
+    "percentFull": 92.1
+  },
+  {
+    "date": "2007-04-30",
+    "waterLevel": 697.2,
+    "percentFull": 100
+  },
+  {
+    "date": "2007-05-31",
+    "waterLevel": 695.44,
+    "percentFull": 99.9
+  },
+  {
+    "date": "2007-06-30",
+    "waterLevel": 697.32,
+    "percentFull": 100
+  },
+  {
+    "date": "2007-07-31",
+    "waterLevel": 701.11,
+    "percentFull": 100
+  },
+  {
+    "date": "2007-08-31",
+    "waterLevel": 693.79,
+    "percentFull": 98.5
+  },
+  {
+    "date": "2007-09-30",
+    "waterLevel": 692.99,
+    "percentFull": 95.7
+  },
+  {
+    "date": "2007-10-31",
+    "waterLevel": 692.72,
+    "percentFull": 94.6
+  },
+  {
+    "date": "2007-11-30",
+    "waterLevel": 692.57,
+    "percentFull": 94
+  },
+  {
+    "date": "2007-12-31",
+    "waterLevel": 693.65,
+    "percentFull": 98.5
+  },
+  {
+    "date": "2008-01-31",
+    "waterLevel": 693.44,
+    "percentFull": 97.6
+  },
+  {
+    "date": "2008-02-29",
+    "waterLevel": 692.47,
+    "percentFull": 93.6
+  },
+  {
+    "date": "2008-03-31",
+    "waterLevel": 693.55,
+    "percentFull": 96.3
+  },
+  {
+    "date": "2008-04-30",
+    "waterLevel": 695.35,
+    "percentFull": 100
+  },
+  {
+    "date": "2008-05-31",
+    "waterLevel": 694.34,
+    "percentFull": 100
+  },
+  {
+    "date": "2008-06-30",
+    "waterLevel": 693.63,
+    "percentFull": 98.2
+  },
+  {
+    "date": "2008-07-31",
+    "waterLevel": 691.45,
+    "percentFull": 89.5
+  },
+  {
+    "date": "2008-08-31",
+    "waterLevel": 687.79,
+    "percentFull": 75.7
+  },
+  {
+    "date": "2008-09-30",
+    "waterLevel": 686.56,
+    "percentFull": 71.3
+  },
+  {
+    "date": "2008-10-31",
+    "waterLevel": 685.73,
+    "percentFull": 68.4
+  },
+  {
+    "date": "2008-11-30",
+    "waterLevel": 685.61,
+    "percentFull": 68
+  },
+  {
+    "date": "2008-12-31",
+    "waterLevel": 685.93,
+    "percentFull": 69.1
+  },
+  {
+    "date": "2009-01-31",
+    "waterLevel": 686.64,
+    "percentFull": 71.6
+  },
+  {
+    "date": "2009-02-28",
+    "waterLevel": 686.64,
+    "percentFull": 71.6
+  },
+  {
+    "date": "2009-03-31",
+    "waterLevel": 688.1,
+    "percentFull": 76.8
+  },
+  {
+    "date": "2009-04-30",
+    "waterLevel": 689.24,
+    "percentFull": 80.9
+  },
+  {
+    "date": "2009-05-31",
+    "waterLevel": 691.67,
+    "percentFull": 90.4
+  },
+  {
+    "date": "2009-06-30",
+    "waterLevel": 693.56,
+    "percentFull": 98.1
+  },
+  {
+    "date": "2009-07-31",
+    "waterLevel": 690.94,
+    "percentFull": 87.5
+  },
+  {
+    "date": "2009-08-31",
+    "waterLevel": 688.62,
+    "percentFull": 78.7
+  },
+  {
+    "date": "2009-09-30",
+    "waterLevel": 688.25,
+    "percentFull": 77.4
+  },
+  {
+    "date": "2009-10-31",
+    "waterLevel": 694.78,
+    "percentFull": 95.8
+  },
+  {
+    "date": "2009-11-30",
+    "waterLevel": 695.96,
+    "percentFull": 100
+  },
+  {
+    "date": "2009-12-31",
+    "waterLevel": 694.7,
+    "percentFull": 100
+  },
+  {
+    "date": "2010-01-31",
+    "waterLevel": 694.25,
+    "percentFull": 100
+  },
+  {
+    "date": "2010-02-28",
+    "waterLevel": 695.32,
+    "percentFull": 100
+  },
+  {
+    "date": "2010-03-31",
+    "waterLevel": 694.57,
+    "percentFull": 100
+  },
+  {
+    "date": "2010-04-30",
+    "waterLevel": 694.49,
+    "percentFull": 99.9
+  },
+  {
+    "date": "2010-05-31",
+    "waterLevel": 693.8,
+    "percentFull": 98.7
+  },
+  {
+    "date": "2010-06-30",
+    "waterLevel": 693.19,
+    "percentFull": 96.6
+  },
+  {
+    "date": "2010-07-31",
+    "waterLevel": 692.57,
+    "percentFull": 94
+  },
+  {
+    "date": "2010-08-31",
+    "waterLevel": 690.96,
+    "percentFull": 87.6
+  },
+  {
+    "date": "2010-09-30",
+    "waterLevel": 690.58,
+    "percentFull": 86.1
+  },
+  {
+    "date": "2010-10-31",
+    "waterLevel": 691.39,
+    "percentFull": 89.3
+  },
+  {
+    "date": "2010-11-30",
+    "waterLevel": 691.34,
+    "percentFull": 89.1
+  },
+  {
+    "date": "2010-12-31",
+    "waterLevel": 692.2,
+    "percentFull": 92.5
+  },
+  {
+    "date": "2011-01-31",
+    "waterLevel": 693.04,
+    "percentFull": 95.9
+  },
+  {
+    "date": "2011-02-28",
+    "waterLevel": 693.47,
+    "percentFull": 97.7
+  },
+  {
+    "date": "2011-03-31",
+    "waterLevel": 693.6,
+    "percentFull": 98.3
+  },
+  {
+    "date": "2011-04-30",
+    "waterLevel": 693.26,
+    "percentFull": 96.8
+  },
+  {
+    "date": "2011-05-31",
+    "waterLevel": 693.61,
+    "percentFull": 98.3
+  },
+  {
+    "date": "2011-06-30",
+    "waterLevel": 692.66,
+    "percentFull": 94.4
+  },
+  {
+    "date": "2011-07-31",
+    "waterLevel": 688.81,
+    "percentFull": 79.4
+  },
+  {
+    "date": "2011-08-31",
+    "waterLevel": 682.65,
+    "percentFull": 58.6
+  },
+  {
+    "date": "2011-09-30",
+    "waterLevel": 677.82,
+    "percentFull": 44.2
+  },
+  {
+    "date": "2011-10-31",
+    "waterLevel": 677.59,
+    "percentFull": 43.6
+  },
+  {
+    "date": "2011-11-30",
+    "waterLevel": 679.56,
+    "percentFull": 49.1
+  },
+  {
+    "date": "2011-12-31",
+    "waterLevel": 683.01,
+    "percentFull": 59.5
+  },
+  {
+    "date": "2012-01-31",
+    "waterLevel": 687.76,
+    "percentFull": 75.8
+  },
+  {
+    "date": "2012-02-29",
+    "waterLevel": 695.37,
+    "percentFull": 100
+  },
+  {
+    "date": "2012-03-31",
+    "waterLevel": 695.91,
+    "percentFull": 100
+  },
+  {
+    "date": "2012-04-30",
+    "waterLevel": 694.15,
+    "percentFull": 99.1
+  },
+  {
+    "date": "2012-05-31",
+    "waterLevel": 692.09,
+    "percentFull": 92.1
+  },
+  {
+    "date": "2012-06-30",
+    "waterLevel": 692.09,
+    "percentFull": 92
+  },
+  {
+    "date": "2012-07-31",
+    "waterLevel": 690.53,
+    "percentFull": 85.9
+  },
+  {
+    "date": "2012-08-31",
+    "waterLevel": 687.79,
+    "percentFull": 75.7
+  },
+  {
+    "date": "2012-09-30",
+    "waterLevel": 685.81,
+    "percentFull": 68.7
+  },
+  {
+    "date": "2012-10-31",
+    "waterLevel": 685.18,
+    "percentFull": 66.6
+  },
+  {
+    "date": "2012-11-30",
+    "waterLevel": 684.86,
+    "percentFull": 65.5
+  },
+  {
+    "date": "2012-12-31",
+    "waterLevel": 685.06,
+    "percentFull": 66.2
+  },
+  {
+    "date": "2013-01-31",
+    "waterLevel": 685.62,
+    "percentFull": 68.1
+  },
+  {
+    "date": "2013-02-28",
+    "waterLevel": 686.63,
+    "percentFull": 71.5
+  },
+  {
+    "date": "2013-03-31",
+    "waterLevel": 688.2,
+    "percentFull": 77.1
+  },
+  {
+    "date": "2013-04-30",
+    "waterLevel": 689.98,
+    "percentFull": 83.8
+  },
+  {
+    "date": "2013-05-31",
+    "waterLevel": 691.36,
+    "percentFull": 89.1
+  },
+  {
+    "date": "2013-06-30",
+    "waterLevel": 691.57,
+    "percentFull": 90
+  },
+  {
+    "date": "2013-07-31",
+    "waterLevel": 689.94,
+    "percentFull": 83.6
+  },
+  {
+    "date": "2013-08-31",
+    "waterLevel": 687.83,
+    "percentFull": 75.8
+  },
+  {
+    "date": "2013-09-30",
+    "waterLevel": 685.93,
+    "percentFull": 69.1
+  },
+  {
+    "date": "2013-10-31",
+    "waterLevel": 685.78,
+    "percentFull": 68.6
+  },
+  {
+    "date": "2013-11-30",
+    "waterLevel": 687.62,
+    "percentFull": 75
+  },
+  {
+    "date": "2013-12-31",
+    "waterLevel": 689.73,
+    "percentFull": 82.8
+  },
+  {
+    "date": "2014-01-31",
+    "waterLevel": 690.48,
+    "percentFull": 85.7
+  },
+  {
+    "date": "2014-02-28",
+    "waterLevel": 688.59,
+    "percentFull": 78.6
+  },
+  {
+    "date": "2014-03-31",
+    "waterLevel": 688.38,
+    "percentFull": 77.8
+  },
+  {
+    "date": "2014-04-30",
+    "waterLevel": 688.94,
+    "percentFull": 79.8
+  },
+  {
+    "date": "2014-05-31",
+    "waterLevel": 689,
+    "percentFull": 80
+  },
+  {
+    "date": "2014-06-30",
+    "waterLevel": 689.53,
+    "percentFull": 82.1
+  },
+  {
+    "date": "2014-07-31",
+    "waterLevel": 690.22,
+    "percentFull": 84.7
+  },
+  {
+    "date": "2014-08-31",
+    "waterLevel": 687.67,
+    "percentFull": 75.2
+  },
+  {
+    "date": "2014-09-30",
+    "waterLevel": 685.99,
+    "percentFull": 69.3
+  },
+  {
+    "date": "2014-10-31",
+    "waterLevel": 685.68,
+    "percentFull": 68.3
+  },
+  {
+    "date": "2014-11-30",
+    "waterLevel": 685.5,
+    "percentFull": 67.6
+  },
+  {
+    "date": "2014-12-31",
+    "waterLevel": 685.91,
+    "percentFull": 69
+  },
+  {
+    "date": "2015-01-31",
+    "waterLevel": 685,
+    "percentFull": 66
+  },
+  {
+    "date": "2015-02-28",
+    "waterLevel": 685.72,
+    "percentFull": 68.4
+  },
+  {
+    "date": "2015-03-31",
+    "waterLevel": 687.07,
+    "percentFull": 73.1
+  },
+  {
+    "date": "2015-04-30",
+    "waterLevel": 688.21,
+    "percentFull": 77.2
+  },
+  {
+    "date": "2015-05-31",
+    "waterLevel": 697.03,
+    "percentFull": 95.6
+  },
+  {
+    "date": "2015-06-30",
+    "waterLevel": 709.68,
+    "percentFull": 100
+  },
+  {
+    "date": "2015-07-31",
+    "waterLevel": 702.32,
+    "percentFull": 100
+  },
+  {
+    "date": "2015-08-31",
+    "waterLevel": 692.53,
+    "percentFull": 93.4
+  },
+  {
+    "date": "2015-09-30",
+    "waterLevel": 688.29,
+    "percentFull": 77.5
+  },
+  {
+    "date": "2015-10-31",
+    "waterLevel": 686.94,
+    "percentFull": 72.6
+  },
+  {
+    "date": "2015-11-30",
+    "waterLevel": 692,
+    "percentFull": 88.2
+  },
+  {
+    "date": "2015-12-31",
+    "waterLevel": 703.43,
+    "percentFull": 100
+  },
+  {
+    "date": "2016-01-31",
+    "waterLevel": 697.02,
+    "percentFull": 100
+  },
+  {
+    "date": "2016-02-29",
+    "waterLevel": 693.79,
+    "percentFull": 98.7
+  },
+  {
+    "date": "2016-03-31",
+    "waterLevel": 695.51,
+    "percentFull": 99.5
+  },
+  {
+    "date": "2016-04-30",
+    "waterLevel": 697.88,
+    "percentFull": 100
+  },
+  {
+    "date": "2016-05-31",
+    "waterLevel": 697.46,
+    "percentFull": 100
+  },
+  {
+    "date": "2016-06-30",
+    "waterLevel": 700.99,
+    "percentFull": 100
+  },
+  {
+    "date": "2016-07-31",
+    "waterLevel": 694.29,
+    "percentFull": 99.4
+  },
+  {
+    "date": "2016-08-31",
+    "waterLevel": 692.56,
+    "percentFull": 94
+  },
+  {
+    "date": "2016-09-30",
+    "waterLevel": 692.28,
+    "percentFull": 92.8
+  },
+  {
+    "date": "2016-10-31",
+    "waterLevel": 690.99,
+    "percentFull": 87.6
+  },
+  {
+    "date": "2016-11-30",
+    "waterLevel": 690.18,
+    "percentFull": 84.5
+  },
+  {
+    "date": "2016-12-31",
+    "waterLevel": 689.81,
+    "percentFull": 83.1
+  },
+  {
+    "date": "2017-01-31",
+    "waterLevel": 689.74,
+    "percentFull": 82.8
+  },
+  {
+    "date": "2017-02-28",
+    "waterLevel": 690.33,
+    "percentFull": 85.1
+  },
+  {
+    "date": "2017-03-31",
+    "waterLevel": 689.71,
+    "percentFull": 82.7
+  },
+  {
+    "date": "2017-04-30",
+    "waterLevel": 688.1,
+    "percentFull": 76.8
+  },
+  {
+    "date": "2017-05-31",
+    "waterLevel": 688.41,
+    "percentFull": 77.9
+  },
+  {
+    "date": "2017-06-30",
+    "waterLevel": 690.1,
+    "percentFull": 84.2
+  },
+  {
+    "date": "2017-07-31",
+    "waterLevel": 692.41,
+    "percentFull": 93.4
+  },
+  {
+    "date": "2017-08-31",
+    "waterLevel": 693.29,
+    "percentFull": 97
+  },
+  {
+    "date": "2017-09-30",
+    "waterLevel": 693.45,
+    "percentFull": 97.7
+  },
+  {
+    "date": "2017-10-31",
+    "waterLevel": 692.67,
+    "percentFull": 94.4
+  },
+  {
+    "date": "2017-11-30",
+    "waterLevel": 690.48,
+    "percentFull": 85.7
+  },
+  {
+    "date": "2017-12-31",
+    "waterLevel": 690.71,
+    "percentFull": 86.6
+  },
+  {
+    "date": "2018-01-31",
+    "waterLevel": 691.88,
+    "percentFull": 91.2
+  },
+  {
+    "date": "2018-02-28",
+    "waterLevel": 693.41,
+    "percentFull": 95.6
+  },
+  {
+    "date": "2018-03-31",
+    "waterLevel": 695.28,
+    "percentFull": 100
+  },
+  {
+    "date": "2018-04-30",
+    "waterLevel": 694.84,
+    "percentFull": 100
+  },
+  {
+    "date": "2018-05-31",
+    "waterLevel": 693.62,
+    "percentFull": 98.1
+  },
+  {
+    "date": "2018-06-30",
+    "waterLevel": 690.74,
+    "percentFull": 86.7
+  },
+  {
+    "date": "2018-07-31",
+    "waterLevel": 686.97,
+    "percentFull": 72.8
+  },
+  {
+    "date": "2018-08-31",
+    "waterLevel": 685.65,
+    "percentFull": 68.2
+  },
+  {
+    "date": "2018-09-30",
+    "waterLevel": 687.79,
+    "percentFull": 75.7
+  },
+  {
+    "date": "2018-10-31",
+    "waterLevel": 697.23,
+    "percentFull": 93.8
+  },
+  {
+    "date": "2018-11-30",
+    "waterLevel": 699.87,
+    "percentFull": 100
+  },
+  {
+    "date": "2018-12-31",
+    "waterLevel": 695.27,
+    "percentFull": 100
+  },
+  {
+    "date": "2019-01-31",
+    "waterLevel": 695.52,
+    "percentFull": 100
+  },
+  {
+    "date": "2019-02-28",
+    "waterLevel": 694.61,
+    "percentFull": 100
+  },
+  {
+    "date": "2019-03-31",
+    "waterLevel": 694.58,
+    "percentFull": 100
+  },
+  {
+    "date": "2019-04-30",
+    "waterLevel": 695.65,
+    "percentFull": 100
+  },
+  {
+    "date": "2019-05-31",
+    "waterLevel": 705.72,
+    "percentFull": 100
+  },
+  {
+    "date": "2019-06-30",
+    "waterLevel": 696.17,
+    "percentFull": 100
+  },
+  {
+    "date": "2019-07-31",
+    "waterLevel": 693.38,
+    "percentFull": 97
+  },
+  {
+    "date": "2019-08-31",
+    "waterLevel": 690.7,
+    "percentFull": 86.5
+  },
+  {
+    "date": "2019-09-30",
+    "waterLevel": 687.14,
+    "percentFull": 73.4
+  },
+  {
+    "date": "2019-10-31",
+    "waterLevel": 683.06,
+    "percentFull": 59.7
+  },
+  {
+    "date": "2019-11-30",
+    "waterLevel": 683.71,
+    "percentFull": 61.8
+  },
+  {
+    "date": "2019-12-31",
+    "waterLevel": 686.07,
+    "percentFull": 69.6
+  },
+  {
+    "date": "2020-01-31",
+    "waterLevel": 687.97,
+    "percentFull": 76.3
+  },
+  {
+    "date": "2020-02-29",
+    "waterLevel": 690.44,
+    "percentFull": 85.6
+  },
+  {
+    "date": "2020-03-31",
+    "waterLevel": 699.16,
+    "percentFull": 98.9
+  },
+  {
+    "date": "2020-04-30",
+    "waterLevel": 698.53,
+    "percentFull": 100
+  },
+  {
+    "date": "2020-05-31",
+    "waterLevel": 694.69,
+    "percentFull": 100
+  },
+  {
+    "date": "2020-06-30",
+    "waterLevel": 694.47,
+    "percentFull": 99.7
+  },
+  {
+    "date": "2020-07-31",
+    "waterLevel": 693.45,
+    "percentFull": 97.2
+  },
+  {
+    "date": "2020-08-31",
+    "waterLevel": 690.29,
+    "percentFull": 85
+  },
+  {
+    "date": "2020-09-30",
+    "waterLevel": 689.27,
+    "percentFull": 81
+  },
+  {
+    "date": "2020-10-31",
+    "waterLevel": 689.36,
+    "percentFull": 81.4
+  },
+  {
+    "date": "2020-11-30",
+    "waterLevel": 689.72,
+    "percentFull": 82.7
+  },
+  {
+    "date": "2020-12-31",
+    "waterLevel": 690.84,
+    "percentFull": 87.1
+  },
+  {
+    "date": "2021-01-31",
+    "waterLevel": 691.88,
+    "percentFull": 91.2
+  },
+  {
+    "date": "2021-02-28",
+    "waterLevel": 691.9,
+    "percentFull": 91.3
+  },
+  {
+    "date": "2021-03-31",
+    "waterLevel": 691.87,
+    "percentFull": 91.2
+  },
+  {
+    "date": "2021-04-30",
+    "waterLevel": 692.85,
+    "percentFull": 95.2
+  },
+  {
+    "date": "2021-05-31",
+    "waterLevel": 698.1,
+    "percentFull": 100
+  },
+  {
+    "date": "2021-06-30",
+    "waterLevel": 703.92,
+    "percentFull": 100
+  },
+  {
+    "date": "2021-07-31",
+    "waterLevel": 693.93,
+    "percentFull": 98.5
+  },
+  {
+    "date": "2021-08-31",
+    "waterLevel": 691.59,
+    "percentFull": 90.1
+  },
+  {
+    "date": "2021-09-30",
+    "waterLevel": 689.18,
+    "percentFull": 80.7
+  },
+  {
+    "date": "2021-10-31",
+    "waterLevel": 687.03,
+    "percentFull": 72.9
+  },
+  {
+    "date": "2021-11-30",
+    "waterLevel": 686.75,
+    "percentFull": 72
+  },
+  {
+    "date": "2021-12-31",
+    "waterLevel": 688.73,
+    "percentFull": 79.1
+  },
+  {
+    "date": "2022-01-31",
+    "waterLevel": 689.51,
+    "percentFull": 82
+  },
+  {
+    "date": "2022-02-28",
+    "waterLevel": 687.76,
+    "percentFull": 75.5
+  },
+  {
+    "date": "2022-03-31",
+    "waterLevel": 688.13,
+    "percentFull": 76.8
+  },
+  {
+    "date": "2022-04-30",
+    "waterLevel": 689.12,
+    "percentFull": 80.5
+  },
+  {
+    "date": "2022-05-31",
+    "waterLevel": 690.45,
+    "percentFull": 85.6
+  },
+  {
+    "date": "2022-06-30",
+    "waterLevel": 690.73,
+    "percentFull": 86.6
+  },
+  {
+    "date": "2022-07-31",
+    "waterLevel": 688.71,
+    "percentFull": 79
+  },
+  {
+    "date": "2022-08-31",
+    "waterLevel": 685.25,
+    "percentFull": 66.8
+  },
+  {
+    "date": "2022-09-30",
+    "waterLevel": 686.22,
+    "percentFull": 70.1
+  },
+  {
+    "date": "2022-10-31",
+    "waterLevel": 685.97,
+    "percentFull": 69.3
+  },
+  {
+    "date": "2022-11-30",
+    "waterLevel": 686.72,
+    "percentFull": 71.9
+  },
+  {
+    "date": "2022-12-31",
+    "waterLevel": 688.55,
+    "percentFull": 78.4
+  },
+  {
+    "date": "2023-01-31",
+    "waterLevel": 689.26,
+    "percentFull": 81
+  },
+  {
+    "date": "2023-02-28",
+    "waterLevel": 691.72,
+    "percentFull": 90.6
+  },
+  {
+    "date": "2023-03-31",
+    "waterLevel": 694.64,
+    "percentFull": 99.8
+  },
+  {
+    "date": "2023-04-30",
+    "waterLevel": 694.67,
+    "percentFull": 100
+  },
+  {
+    "date": "2023-05-31",
+    "waterLevel": 694.42,
+    "percentFull": 100
+  },
+  {
+    "date": "2023-06-30",
+    "waterLevel": 694.23,
+    "percentFull": 99.9
+  },
+  {
+    "date": "2023-07-31",
+    "waterLevel": 692.72,
+    "percentFull": 94.7
+  },
+  {
+    "date": "2023-08-31",
+    "waterLevel": 688.22,
+    "percentFull": 77.3
+  },
+  {
+    "date": "2023-09-30",
+    "waterLevel": 682.2,
+    "percentFull": 57
+  },
+  {
+    "date": "2023-10-31",
+    "waterLevel": 681.19,
+    "percentFull": 54
+  },
+  {
+    "date": "2023-11-30",
+    "waterLevel": 687.37,
+    "percentFull": 74.2
+  },
+  {
+    "date": "2023-12-31",
+    "waterLevel": 688.62,
+    "percentFull": 78.7
+  },
+  {
+    "date": "2024-01-31",
+    "waterLevel": 691.81,
+    "percentFull": 90.9
+  },
+  {
+    "date": "2024-02-29",
+    "waterLevel": 693.65,
+    "percentFull": 97.8
+  },
+  {
+    "date": "2024-03-31",
+    "waterLevel": 695.77,
+    "percentFull": 100
+  },
+  {
+    "date": "2024-04-30",
+    "waterLevel": 694.32,
+    "percentFull": 99.2
+  },
+  {
+    "date": "2024-05-31",
+    "waterLevel": 697.83,
+    "percentFull": 100
+  },
+  {
+    "date": "2024-06-30",
+    "waterLevel": 697.11,
+    "percentFull": 100
+  },
+  {
+    "date": "2024-07-31",
+    "waterLevel": 693.81,
+    "percentFull": 97.5
+  },
+  {
+    "date": "2024-08-31",
+    "waterLevel": 691.72,
+    "percentFull": 90.6
+  },
+  {
+    "date": "2024-09-30",
+    "waterLevel": 691.45,
+    "percentFull": 89.5
+  },
+  {
+    "date": "2024-10-31",
+    "waterLevel": 690.9,
+    "percentFull": 87.3
+  },
+  {
+    "date": "2024-11-30",
+    "waterLevel": 690.56,
+    "percentFull": 85.9
+  },
+  {
+    "date": "2024-12-31",
+    "waterLevel": 689.35,
+    "percentFull": 81.4
+  },
+  {
+    "date": "2025-01-31",
+    "waterLevel": 689.3,
+    "percentFull": 81.2
+  },
+  {
+    "date": "2025-02-28",
+    "waterLevel": 692.02,
+    "percentFull": 91.8
+  },
+  {
+    "date": "2025-03-31",
+    "waterLevel": 692.9,
+    "percentFull": 95.4
+  },
+  {
+    "date": "2025-04-30",
+    "waterLevel": 693.52,
+    "percentFull": 97.9
+  },
+  {
+    "date": "2025-05-31",
+    "waterLevel": 695.45,
+    "percentFull": 100
+  },
+  {
+    "date": "2025-06-30",
+    "waterLevel": 695.17,
+    "percentFull": 100
+  },
+  {
+    "date": "2025-07-31",
+    "waterLevel": 694.78,
+    "percentFull": 99.9
+  },
+  {
+    "date": "2025-08-31",
+    "waterLevel": 692.61,
+    "percentFull": 94.2
+  },
+  {
+    "date": "2025-09-30",
+    "waterLevel": 691.69,
+    "percentFull": 90.4
+  },
+  {
+    "date": "2025-10-31",
+    "waterLevel": 691.07,
+    "percentFull": 88
+  },
+  {
+    "date": "2025-11-30",
+    "waterLevel": 691.25,
+    "percentFull": 88.7
+  },
+  {
+    "date": "2025-12-31",
+    "waterLevel": 692.24,
+    "percentFull": 92.6
+  },
+  {
+    "date": "2026-01-31",
+    "waterLevel": 692.04,
+    "percentFull": 91.9
+  },
+  {
+    "date": "2026-02-28",
+    "waterLevel": 690.93,
+    "percentFull": 87.4
+  },
+  {
+    "date": "2026-03-31",
+    "waterLevel": 689.92,
+    "percentFull": 83.5
+  },
+  {
+    "date": "2026-04-30",
+    "waterLevel": 690.39,
+    "percentFull": 85.3
+  },
+  {
+    "date": "2026-05-31",
+    "waterLevel": 692.26,
+    "percentFull": 92.7
+  },
+  {
+    "date": "2026-06-30",
+    "waterLevel": 694.11,
+    "percentFull": 99.4
+  },
+  {
+    "date": "2026-07-31",
+    "waterLevel": 692.69,
+    "percentFull": 94.5
+  },
+  {
+    "date": "2026-08-07",
+    "waterLevel": 692.09,
+    "percentFull": 92
+  }
+]

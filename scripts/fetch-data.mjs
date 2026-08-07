@@ -4,6 +4,8 @@ import { LAKES } from "./lakes-config.mjs";
 
 const rootPath = (rel) => fileURLToPath(new URL(`../${rel}`, import.meta.url));
 
+const DAY_MS = 24 * 60 * 60 * 1000;
+
 function findClosestRow(rows, targetDate) {
   let closest = rows[0];
   let closestDiff = Math.abs(new Date(rows[0].date) - targetDate);
@@ -17,8 +19,41 @@ function findClosestRow(rows, targetDate) {
   return closest;
 }
 
+// Groups rows by a bucket key (week or month) and collapses each bucket to
+// one averaged point, so long ranges (5 years, all time) stay small and
+// fast to render instead of shipping tens of thousands of daily points.
+function downsample(rows, bucketKeyFor) {
+  const buckets = new Map();
+  for (const r of rows) {
+    const key = bucketKeyFor(r.date);
+    if (!buckets.has(key)) buckets.set(key, []);
+    buckets.get(key).push(r);
+  }
+  return [...buckets.values()].map((group) => {
+    const last = group[group.length - 1];
+    const avgPct = group.reduce((s, r) => s + r.percentFull, 0) / group.length;
+    const avgLevel = group.reduce((s, r) => s + r.waterLevel, 0) / group.length;
+    return {
+      date: last.date,
+      waterLevel: Math.round(avgLevel * 100) / 100,
+      percentFull: Math.round(avgPct * 10) / 10,
+    };
+  });
+}
+
+function weekKey(dateStr) {
+  const d = new Date(dateStr);
+  const jan1 = new Date(d.getFullYear(), 0, 1);
+  const week = Math.floor((d - jan1) / (7 * DAY_MS));
+  return `${d.getFullYear()}-W${week}`;
+}
+
+function monthKey(dateStr) {
+  return dateStr.slice(0, 7);
+}
+
 async function fetchLake(lake) {
-  const csvUrl = `https://waterdatafortexas.org/reservoirs/individual/${lake.slug}-1year.csv`;
+  const csvUrl = `https://waterdatafortexas.org/reservoirs/individual/${lake.slug}.csv`;
   const res = await fetch(csvUrl);
   if (!res.ok) {
     throw new Error(`[${lake.slug}] Failed to fetch CSV: ${res.status} ${res.statusText}`);
@@ -59,6 +94,8 @@ async function fetchLake(lake) {
   monthAgoDate.setDate(monthAgoDate.getDate() - 30);
   const yearAgoDate = new Date(latestDate);
   yearAgoDate.setDate(yearAgoDate.getDate() - 365);
+  const fiveYearsAgoDate = new Date(latestDate);
+  fiveYearsAgoDate.setDate(fiveYearsAgoDate.getDate() - 365 * 5);
 
   const percentFullMonthAgo = findClosestRow(rows, monthAgoDate).percentFull;
   const percentFullYearAgo = findClosestRow(rows, yearAgoDate).percentFull;
@@ -74,20 +111,40 @@ async function fetchLake(lake) {
     percentFullMonthAgo,
     percentFullYearAgo,
     conservationCapacity,
+    recordStartDate: rows[0].date,
     fetchedAt,
   };
 
-  await mkdir(rootPath(`data/${lake.slug}`), { recursive: true });
+  // Recent (raw daily) -- covers the 1 Week / 1 Month / 6 Month / 1 Year buttons
+  const recentRows = rows.filter((r) => latestDate - new Date(r.date) <= 400 * DAY_MS);
+
+  // 5 years, downsampled to weekly -- daily would still be small, but
+  // weekly is plenty for a "long trend" view and keeps every lake's file
+  // the same rough size regardless of its data quality/gaps.
+  const fiveYearRows = rows.filter((r) => new Date(r.date) >= fiveYearsAgoDate);
+  const fiveYearDownsampled = downsample(fiveYearRows, weekKey);
+
+  // All time, downsampled to monthly -- some lakes (Travis) go back to
+  // 1940 with 30,000+ daily rows; monthly keeps this readable and light
+  // regardless of how far back a lake's record goes.
+  const allTimeDownsampled = downsample(rows, monthKey);
+
+  const dir = rootPath(`data/${lake.slug}`);
+  await mkdir(dir, { recursive: true });
+  await writeFile(`${dir}/latest.json`, `${JSON.stringify(latest, null, 2)}\n`);
+  await writeFile(`${dir}/history.json`, `${JSON.stringify(recentRows, null, 2)}\n`);
   await writeFile(
-    rootPath(`data/${lake.slug}/latest.json`),
-    `${JSON.stringify(latest, null, 2)}\n`
+    `${dir}/history-5y.json`,
+    `${JSON.stringify(fiveYearDownsampled, null, 2)}\n`
   );
   await writeFile(
-    rootPath(`data/${lake.slug}/history.json`),
-    `${JSON.stringify(rows, null, 2)}\n`
+    `${dir}/history-all.json`,
+    `${JSON.stringify(allTimeDownsampled, null, 2)}\n`
   );
 
-  console.log(`[${lake.slug}] ${rows.length} days fetched, ${latest.percentFull}% full`);
+  console.log(
+    `[${lake.slug}] ${rows.length} days total (since ${rows[0].date}), ${latest.percentFull}% full`
+  );
   return latest;
 }
 

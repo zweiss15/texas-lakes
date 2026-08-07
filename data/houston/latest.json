@@ -3,11 +3,12 @@
   "name": "Lake Houston",
   "city": "Houston",
   "location": "in Houston, Texas",
-  "date": "2026-07-20",
-  "waterLevel": 42.21,
-  "percentFull": 98.5,
+  "date": "2026-08-07",
+  "waterLevel": 42.28,
+  "percentFull": 99.1,
   "percentFullMonthAgo": 100,
   "percentFullYearAgo": 100,
   "conservationCapacity": 132318,
-  "fetchedAt": "2026-07-20T20:17:53.539Z"
+  "recordStartDate": "1996-07-19",
+  "fetchedAt": "2026-08-07T18:51:23.416Z"
 }

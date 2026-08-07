@@ -3,11 +3,12 @@
   "name": "Lake Meredith",
   "city": "Amarillo",
   "location": "near Amarillo, Texas",
-  "date": "2026-07-20",
-  "waterLevel": 2890.74,
-  "percentFull": 43.5,
-  "percentFullMonthAgo": 44.5,
-  "percentFullYearAgo": 46.6,
+  "date": "2026-08-07",
+  "waterLevel": 2890.12,
+  "percentFull": 42.5,
+  "percentFullMonthAgo": 43.9,
+  "percentFullYearAgo": 47.9,
   "conservationCapacity": 500000,
-  "fetchedAt": "2026-07-20T20:20:38.029Z"
+  "recordStartDate": "1995-06-22",
+  "fetchedAt": "2026-08-07T18:54:04.174Z"
 }

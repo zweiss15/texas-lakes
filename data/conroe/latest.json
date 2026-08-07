@@ -3,11 +3,12 @@
   "name": "Lake Conroe",
   "city": "Houston",
   "location": "near Houston, Texas",
-  "date": "2026-07-20",
-  "waterLevel": 201.01,
-  "percentFull": 100,
-  "percentFullMonthAgo": 100,
-  "percentFullYearAgo": 100,
+  "date": "2026-08-07",
+  "waterLevel": 200.58,
+  "percentFull": 98,
+  "percentFullMonthAgo": 98.4,
+  "percentFullYearAgo": 98.8,
   "conservationCapacity": 417577,
-  "fetchedAt": "2026-07-20T20:17:36.357Z"
+  "recordStartDate": "1996-10-02",
+  "fetchedAt": "2026-08-07T18:51:06.199Z"
 }

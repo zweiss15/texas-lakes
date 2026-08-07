@@ -3,11 +3,12 @@
   "name": "Caddo Lake",
   "city": "East Texas",
   "location": "on the Texas-Louisiana border — a National Natural Landmark",
-  "date": "2026-07-20",
-  "waterLevel": 169.01,
-  "percentFull": 100,
+  "date": "2026-08-07",
+  "waterLevel": 168.42,
+  "percentFull": 95.2,
   "percentFullMonthAgo": 100,
   "percentFullYearAgo": 100,
   "conservationCapacity": 29898,
-  "fetchedAt": "2026-07-20T20:21:10.656Z"
+  "recordStartDate": "2012-06-17",
+  "fetchedAt": "2026-08-07T18:54:27.839Z"
 }

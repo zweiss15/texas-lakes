@@ -3,11 +3,12 @@
   "name": "Canyon Lake",
   "city": "New Braunfels",
   "location": "near New Braunfels, Texas",
-  "date": "2026-07-20",
-  "waterLevel": 908.64,
-  "percentFull": 99.2,
-  "percentFullMonthAgo": 61.5,
-  "percentFullYearAgo": 67.8,
+  "date": "2026-08-07",
+  "waterLevel": 910.17,
+  "percentFull": 100,
+  "percentFullMonthAgo": 61,
+  "percentFullYearAgo": 68.6,
   "conservationCapacity": 378781,
-  "fetchedAt": "2026-07-20T20:17:28.688Z"
+  "recordStartDate": "1988-10-01",
+  "fetchedAt": "2026-08-07T18:50:58.902Z"
 }

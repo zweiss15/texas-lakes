@@ -90,14 +90,17 @@ a {
 
 .chart-controls {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 0.5rem;
   margin-top: 2rem;
+  width: min(90vw, 640px);
 }
 
 .chart-controls button {
   font-family: "Open Sans", sans-serif;
-  font-size: 0.85rem;
-  padding: 0.4rem 0.9rem;
+  font-size: 0.8rem;
+  padding: 0.35rem 0.75rem;
   border-radius: 999px;
   border: 1px solid var(--accent);
   background: transparent;

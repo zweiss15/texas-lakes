@@ -3,11 +3,12 @@
   "name": "Lake Tawakoni",
   "city": "Dallas",
   "location": "east of Dallas, Texas",
-  "date": "2026-07-20",
-  "waterLevel": 437.4,
-  "percentFull": 99.6,
-  "percentFullMonthAgo": 100,
-  "percentFullYearAgo": 100,
+  "date": "2026-08-07",
+  "waterLevel": 436.89,
+  "percentFull": 97.4,
+  "percentFullMonthAgo": 99.9,
+  "percentFullYearAgo": 99,
   "conservationCapacity": 871685,
-  "fetchedAt": "2026-07-20T20:18:50.090Z"
+  "recordStartDate": "1995-10-02",
+  "fetchedAt": "2026-08-07T18:52:20.124Z"
 }

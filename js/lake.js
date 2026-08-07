@@ -1,7 +1,12 @@
+const RANGE_DAYS = { "7": 7, "30": 30, "182": 182, "365": 365 };
+const LAZY_RANGES = { "5y": "history-5y.json", all: "history-all.json" };
+
 let historyData = [];
+let lazyCache = {};
 let currentSlice = [];
 let currentPoints = [];
 let chartViewBox = { width: 600, height: 220 };
+let slug = "";
 
 function getSlug() {
   const segments = window.location.pathname.split("/").filter(Boolean);
@@ -41,10 +46,9 @@ function renderStatus(latest) {
   timestamp.textContent = formatTimestamp(latest.fetchedAt);
 }
 
-function renderChart(days) {
+function renderChartData(data) {
   const svg = document.getElementById("chart");
-  const slice = historyData.slice(-days);
-  if (slice.length === 0) return;
+  if (!data || data.length === 0) return;
 
   const width = 600;
   const height = 220;
@@ -53,10 +57,10 @@ function renderChart(days) {
   const plotHeight = height - padding.top - padding.bottom;
 
   const xFor = (i) =>
-    padding.left + (slice.length === 1 ? 0 : (i / (slice.length - 1)) * plotWidth);
+    padding.left + (data.length === 1 ? 0 : (i / (data.length - 1)) * plotWidth);
   const yFor = (pct) => padding.top + plotHeight - (pct / 100) * plotHeight;
 
-  const points = slice.map((d, i) => [xFor(i), yFor(d.percentFull)]);
+  const points = data.map((d, i) => [xFor(i), yFor(d.percentFull)]);
 
   const linePath = points
     .map(([x, y], i) => `${i === 0 ? "M" : "L"}${x.toFixed(1)},${y.toFixed(1)}`)
@@ -87,7 +91,7 @@ function renderChart(days) {
     <circle class="chart-hover-dot" r="4" style="display:none"></circle>
   `;
 
-  currentSlice = slice;
+  currentSlice = data;
   currentPoints = points;
   chartViewBox = { width, height };
 }
@@ -151,14 +155,34 @@ function hideHover() {
   tooltip.style.display = "none";
 }
 
-function setActiveButton(days) {
+function setActiveButton(rangeKey) {
   document.querySelectorAll(".chart-controls button").forEach((btn) => {
-    btn.classList.toggle("active", Number(btn.dataset.range) === days);
+    btn.classList.toggle("active", btn.dataset.range === rangeKey);
   });
 }
 
+async function selectRange(rangeKey) {
+  let data;
+
+  if (rangeKey in RANGE_DAYS) {
+    data = historyData.slice(-RANGE_DAYS[rangeKey]);
+  } else if (rangeKey in LAZY_RANGES) {
+    if (!lazyCache[rangeKey]) {
+      const res = await fetch(`/data/${slug}/${LAZY_RANGES[rangeKey]}`, { cache: "no-store" });
+      if (!res.ok) throw new Error(`Failed to load ${rangeKey} data: ${res.status}`);
+      lazyCache[rangeKey] = await res.json();
+    }
+    data = lazyCache[rangeKey];
+  } else {
+    return;
+  }
+
+  renderChartData(data);
+  setActiveButton(rangeKey);
+}
+
 async function loadData() {
-  const slug = getSlug();
+  slug = getSlug();
   if (!slug) throw new Error("Could not determine lake slug from URL");
 
   const [latestRes, historyRes] = await Promise.all([
@@ -172,16 +196,11 @@ async function loadData() {
   historyData = await historyRes.json();
 
   renderStatus(latest);
-
-  const defaultRange = 365;
-  renderChart(defaultRange);
-  setActiveButton(defaultRange);
+  await selectRange("365");
 
   document.querySelectorAll(".chart-controls button").forEach((btn) => {
     btn.addEventListener("click", () => {
-      const days = Number(btn.dataset.range);
-      renderChart(days);
-      setActiveButton(days);
+      selectRange(btn.dataset.range).catch((err) => console.error(err));
     });
   });
 

@@ -3,11 +3,12 @@
   "name": "Benbrook Lake",
   "city": "Fort Worth",
   "location": "near Fort Worth, Texas",
-  "date": "2026-07-20",
-  "waterLevel": 692.55,
-  "percentFull": 93.9,
-  "percentFullMonthAgo": 100,
-  "percentFullYearAgo": 100,
+  "date": "2026-08-07",
+  "waterLevel": 691.95,
+  "percentFull": 91.5,
+  "percentFullMonthAgo": 95.4,
+  "percentFullYearAgo": 96.9,
   "conservationCapacity": 85648,
-  "fetchedAt": "2026-07-20T20:19:19.591Z"
+  "recordStartDate": "1988-09-30",
+  "fetchedAt": "2026-08-07T18:52:51.056Z"
 }

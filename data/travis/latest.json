@@ -3,11 +3,12 @@
   "name": "Lake Travis",
   "city": "Austin",
   "location": "near Austin, Texas",
-  "date": "2026-07-20",
-  "waterLevel": 684.22,
-  "percentFull": 100,
-  "percentFullMonthAgo": 85.4,
-  "percentFullYearAgo": 90,
+  "date": "2026-08-07",
+  "waterLevel": 680.71,
+  "percentFull": 99.5,
+  "percentFullMonthAgo": 84.7,
+  "percentFullYearAgo": 90.2,
   "conservationCapacity": 1098044,
-  "fetchedAt": "2026-07-20T20:16:54.794Z"
+  "recordStartDate": "1940-09-30",
+  "fetchedAt": "2026-08-07T18:50:25.337Z"
 }

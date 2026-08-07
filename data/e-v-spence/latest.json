@@ -3,11 +3,12 @@
   "name": "E.V. Spence Reservoir",
   "city": "San Angelo",
   "location": "near San Angelo, Texas",
-  "date": "2026-07-20",
-  "waterLevel": 1843.93,
+  "date": "2026-08-07",
+  "waterLevel": 1843.96,
   "percentFull": 10.5,
-  "percentFullMonthAgo": 11,
-  "percentFullYearAgo": 15.3,
+  "percentFullMonthAgo": 10.6,
+  "percentFullYearAgo": 14.8,
   "conservationCapacity": 517272,
-  "fetchedAt": "2026-07-20T20:20:32.878Z"
+  "recordStartDate": "1997-01-25",
+  "fetchedAt": "2026-08-07T18:53:59.095Z"
 }

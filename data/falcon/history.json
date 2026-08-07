@@ -1,5 +1,90 @@
 [
   {
+    "date": "2025-07-03",
+    "waterLevel": 254.99,
+    "percentFull": 15.3
+  },
+  {
+    "date": "2025-07-04",
+    "waterLevel": 255.03,
+    "percentFull": 15.3
+  },
+  {
+    "date": "2025-07-05",
+    "waterLevel": 255.06,
+    "percentFull": 15.4
+  },
+  {
+    "date": "2025-07-06",
+    "waterLevel": 255.1,
+    "percentFull": 15.5
+  },
+  {
+    "date": "2025-07-07",
+    "waterLevel": 255.12,
+    "percentFull": 15.5
+  },
+  {
+    "date": "2025-07-08",
+    "waterLevel": 255.12,
+    "percentFull": 15.5
+  },
+  {
+    "date": "2025-07-09",
+    "waterLevel": 255.11,
+    "percentFull": 15.5
+  },
+  {
+    "date": "2025-07-10",
+    "waterLevel": 255.07,
+    "percentFull": 15.4
+  },
+  {
+    "date": "2025-07-11",
+    "waterLevel": 255.08,
+    "percentFull": 15.4
+  },
+  {
+    "date": "2025-07-12",
+    "waterLevel": 255.07,
+    "percentFull": 15.4
+  },
+  {
+    "date": "2025-07-13",
+    "waterLevel": 255.08,
+    "percentFull": 15.7
+  },
+  {
+    "date": "2025-07-14",
+    "waterLevel": 255.07,
+    "percentFull": 15.7
+  },
+  {
+    "date": "2025-07-15",
+    "waterLevel": 255.07,
+    "percentFull": 15.7
+  },
+  {
+    "date": "2025-07-16",
+    "waterLevel": 255.06,
+    "percentFull": 15.7
+  },
+  {
+    "date": "2025-07-17",
+    "waterLevel": 255.12,
+    "percentFull": 15.8
+  },
+  {
+    "date": "2025-07-18",
+    "waterLevel": 255.5,
+    "percentFull": 16.2
+  },
+  {
+    "date": "2025-07-19",
+    "waterLevel": 255.79,
+    "percentFull": 16.5
+  },
+  {
     "date": "2025-07-20",
     "waterLevel": 255.91,
     "percentFull": 16.5
@@ -1801,32 +1886,122 @@
   },
   {
     "date": "2026-07-15",
-    "waterLevel": 262.37,
+    "waterLevel": 262.39,
     "percentFull": 24
   },
   {
     "date": "2026-07-16",
-    "waterLevel": 262.36,
-    "percentFull": 24
+    "waterLevel": 262.43,
+    "percentFull": 24.1
   },
   {
     "date": "2026-07-17",
-    "waterLevel": 262.33,
-    "percentFull": 23.9
+    "waterLevel": 262.47,
+    "percentFull": 24.1
   },
   {
     "date": "2026-07-18",
-    "waterLevel": 262.32,
-    "percentFull": 23.9
+    "waterLevel": 262.53,
+    "percentFull": 24.2
   },
   {
     "date": "2026-07-19",
-    "waterLevel": 262.59,
-    "percentFull": 24.3
+    "waterLevel": 262.86,
+    "percentFull": 24.4
   },
   {
     "date": "2026-07-20",
-    "waterLevel": 263.38,
-    "percentFull": 25.5
+    "waterLevel": 264,
+    "percentFull": 26.1
+  },
+  {
+    "date": "2026-07-21",
+    "waterLevel": 264.9,
+    "percentFull": 27.4
+  },
+  {
+    "date": "2026-07-22",
+    "waterLevel": 265.01,
+    "percentFull": 27.6
+  },
+  {
+    "date": "2026-07-23",
+    "waterLevel": 265.09,
+    "percentFull": 27.7
+  },
+  {
+    "date": "2026-07-24",
+    "waterLevel": 265.15,
+    "percentFull": 27.8
+  },
+  {
+    "date": "2026-07-25",
+    "waterLevel": 265.15,
+    "percentFull": 27.8
+  },
+  {
+    "date": "2026-07-26",
+    "waterLevel": 265.13,
+    "percentFull": 27.2
+  },
+  {
+    "date": "2026-07-27",
+    "waterLevel": 265.1,
+    "percentFull": 27.1
+  },
+  {
+    "date": "2026-07-28",
+    "waterLevel": 265.04,
+    "percentFull": 27
+  },
+  {
+    "date": "2026-07-29",
+    "waterLevel": 264.99,
+    "percentFull": 26.9
+  },
+  {
+    "date": "2026-07-30",
+    "waterLevel": 264.92,
+    "percentFull": 26.8
+  },
+  {
+    "date": "2026-07-31",
+    "waterLevel": 264.86,
+    "percentFull": 26.7
+  },
+  {
+    "date": "2026-08-01",
+    "waterLevel": 264.81,
+    "percentFull": 26.7
+  },
+  {
+    "date": "2026-08-02",
+    "waterLevel": 264.75,
+    "percentFull": 26.4
+  },
+  {
+    "date": "2026-08-03",
+    "waterLevel": 264.67,
+    "percentFull": 26.3
+  },
+  {
+    "date": "2026-08-04",
+    "waterLevel": 264.61,
+    "percentFull": 26.2
+  },
+  {
+    "date": "2026-08-05",
+    "waterLevel": 264.59,
+    "percentFull": 26.1
+  },
+  {
+    "date": "2026-08-06",
+    "waterLevel": 264.56,
+    "percentFull": 26.1
+  },
+  {
+    "date": "2026-08-07",
+    "waterLevel": 264.51,
+    "percentFull": 26
   }
 ]

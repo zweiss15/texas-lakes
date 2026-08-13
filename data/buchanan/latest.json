@@ -3,12 +3,13 @@
   "name": "Lake Buchanan",
   "city": "Austin",
   "location": "in the Highland Lakes chain near Austin, Texas",
-  "date": "2026-08-07",
-  "waterLevel": 1019.68,
-  "percentFull": 99.2,
-  "percentFullMonthAgo": 99,
-  "percentFullYearAgo": 99.5,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 1019.62,
+  "percentFull": 99,
+  "percentFullMonthAgo": 98.5,
+  "percentFullYearAgo": 99.2,
   "conservationCapacity": 866694,
   "recordStartDate": "1937-06-30",
-  "fetchedAt": "2026-08-07T18:50:38.404Z"
+  "fetchedAt": "2026-08-11T16:31:18.811Z"
 }

@@ -3,12 +3,13 @@
   "name": "Grapevine Lake",
   "city": "Dallas-Fort Worth",
   "location": "in the Dallas-Fort Worth area",
-  "date": "2026-08-07",
-  "waterLevel": 534.57,
-  "percentFull": 98.3,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 534.42,
+  "percentFull": 97.7,
   "percentFullMonthAgo": 100,
-  "percentFullYearAgo": 99,
+  "percentFullYearAgo": 98.5,
   "conservationCapacity": 163064,
   "recordStartDate": "1989-10-27",
-  "fetchedAt": "2026-08-07T18:51:56.658Z"
+  "fetchedAt": "2026-08-11T16:32:04.855Z"
 }

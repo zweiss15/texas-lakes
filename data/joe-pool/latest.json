@@ -3,12 +3,13 @@
   "name": "Joe Pool Lake",
   "city": "Dallas-Fort Worth",
   "location": "in the Dallas-Fort Worth area",
-  "date": "2026-08-07",
-  "waterLevel": 521.28,
-  "percentFull": 96.8,
-  "percentFullMonthAgo": 99.6,
-  "percentFullYearAgo": 99.7,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 521.14,
+  "percentFull": 96.2,
+  "percentFullMonthAgo": 99,
+  "percentFullYearAgo": 99.2,
   "conservationCapacity": 149629,
   "recordStartDate": "1988-09-30",
-  "fetchedAt": "2026-08-07T18:52:39.470Z"
+  "fetchedAt": "2026-08-11T16:32:58.312Z"
 }

@@ -3,12 +3,13 @@
   "name": "Hubbard Creek Reservoir",
   "city": "Abilene",
   "location": "near Abilene, Texas",
-  "date": "2026-08-07",
-  "waterLevel": 1167.59,
-  "percentFull": 40,
-  "percentFullMonthAgo": 41.9,
-  "percentFullYearAgo": 51.7,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 1167.46,
+  "percentFull": 39.6,
+  "percentFullMonthAgo": 41.5,
+  "percentFullYearAgo": 51.2,
   "conservationCapacity": 313298,
   "recordStartDate": "1997-04-09",
-  "fetchedAt": "2026-08-07T18:53:28.372Z"
+  "fetchedAt": "2026-08-11T16:34:05.830Z"
 }

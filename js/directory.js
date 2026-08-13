@@ -26,37 +26,45 @@ function compareDefault(a, b) {
   return b.conservationCapacity - a.conservationCapacity;
 }
 
-function render() {
-  const sorted =
-    sortKey === "default"
-      ? [...lakes].sort(compareDefault)
-      : [...lakes].sort((a, b) => {
-          let av = a[sortKey];
-          let bv = b[sortKey];
-          if (typeof av === "string") {
-            av = av.toLowerCase();
-            bv = bv.toLowerCase();
-          }
-          const cmp = av < bv ? -1 : av > bv ? 1 : 0;
-          return sortDir === "asc" ? cmp : -cmp;
-        });
+function getComparator() {
+  if (sortKey === "default") return compareDefault;
+  return (a, b) => {
+    let av = a[sortKey];
+    let bv = b[sortKey];
+    if (typeof av === "string") {
+      av = av.toLowerCase();
+      bv = bv.toLowerCase();
+    }
+    const cmp = av < bv ? -1 : av > bv ? 1 : 0;
+    return sortDir === "asc" ? cmp : -cmp;
+  };
+}
 
-  const tbody = document.getElementById("lakes-body");
-  tbody.innerHTML = sorted
-    .map((lake) => {
-      const isFull = lake.percentFull >= 100;
-      return `
-        <tr>
-          <td class="left"><a href="/${lake.slug}/">${lake.name}</a></td>
-          <td class="left">${lake.city}</td>
-          <td class="${isFull ? "full" : ""}">${formatPct(lake.percentFull)}</td>
-          <td>${formatPct(lake.percentFullMonthAgo)}</td>
-          <td>${formatPct(lake.percentFullYearAgo)}</td>
-          <td>${formatCapacity(lake.conservationCapacity)}</td>
-        </tr>
-      `;
-    })
-    .join("");
+function rowHtml(lake) {
+  const isFull = lake.percentFull >= 100;
+  const star = lake.featured ? '<span class="star">★</span> ' : "";
+  return `
+    <tr class="${lake.featured ? "featured-row" : ""}">
+      <td class="left">${star}<a href="/${lake.slug}/">${lake.name}</a></td>
+      <td class="left">${lake.city}</td>
+      <td class="${isFull ? "full" : ""}">${formatPct(lake.percentFull)}</td>
+      <td>${formatPct(lake.percentFullMonthAgo)}</td>
+      <td>${formatPct(lake.percentFullYearAgo)}</td>
+      <td>${formatCapacity(lake.conservationCapacity)}</td>
+    </tr>
+  `;
+}
+
+function render() {
+  const comparator = getComparator();
+  const featured = lakes.filter((l) => l.featured).sort(comparator);
+  const rest = lakes.filter((l) => !l.featured).sort(comparator);
+
+  const divider =
+    featured.length && rest.length ? '<tr class="divider-row"><td colspan="6"></td></tr>' : "";
+
+  document.getElementById("lakes-body").innerHTML =
+    featured.map(rowHtml).join("") + divider + rest.map(rowHtml).join("");
 
   document.querySelectorAll("th[data-sort]").forEach((th) => {
     th.classList.toggle("sorted", th.dataset.sort === sortKey);

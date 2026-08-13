@@ -1,25 +1,5 @@
 [
   {
-    "date": "2025-07-03",
-    "waterLevel": 1002.41,
-    "percentFull": 59.5
-  },
-  {
-    "date": "2025-07-04",
-    "waterLevel": 1002.57,
-    "percentFull": 59.8
-  },
-  {
-    "date": "2025-07-05",
-    "waterLevel": 1004.26,
-    "percentFull": 63.1
-  },
-  {
-    "date": "2025-07-06",
-    "waterLevel": 1009.45,
-    "percentFull": 74.2
-  },
-  {
     "date": "2025-07-07",
     "waterLevel": 1011.3,
     "percentFull": 78.4
@@ -2003,5 +1983,25 @@
     "date": "2026-08-07",
     "waterLevel": 1019.68,
     "percentFull": 99.2
+  },
+  {
+    "date": "2026-08-08",
+    "waterLevel": 1019.66,
+    "percentFull": 99.1
+  },
+  {
+    "date": "2026-08-09",
+    "waterLevel": 1019.65,
+    "percentFull": 99.1
+  },
+  {
+    "date": "2026-08-10",
+    "waterLevel": 1019.63,
+    "percentFull": 99
+  },
+  {
+    "date": "2026-08-11",
+    "waterLevel": 1019.62,
+    "percentFull": 99
   }
 ]

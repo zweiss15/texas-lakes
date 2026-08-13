@@ -3,12 +3,13 @@
   "name": "Lake Bridgeport",
   "city": "Fort Worth",
   "location": "near Fort Worth, Texas",
-  "date": "2026-08-07",
-  "waterLevel": 830.64,
-  "percentFull": 83.2,
-  "percentFullMonthAgo": 86.8,
-  "percentFullYearAgo": 96.3,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 830.5,
+  "percentFull": 82.8,
+  "percentFullMonthAgo": 86.4,
+  "percentFullYearAgo": 95.5,
   "conservationCapacity": 372183,
   "recordStartDate": "1996-10-02",
-  "fetchedAt": "2026-08-07T18:53:00.249Z"
+  "fetchedAt": "2026-08-11T16:33:31.355Z"
 }

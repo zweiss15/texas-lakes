@@ -105,6 +105,7 @@ async function fetchLake(lake) {
     name: lake.name,
     city: lake.city,
     location: lake.location,
+    featured: Boolean(lake.featured),
     date: last.date,
     waterLevel: last.waterLevel,
     percentFull: last.percentFull,

@@ -6,6 +6,9 @@
   --water-full: #1f9d55;
   --grid: rgba(0, 0, 0, 0.1);
   --row-hover: rgba(0, 0, 0, 0.03);
+  --featured-tint: rgba(234, 179, 8, 0.1);
+  --featured-tint-hover: rgba(234, 179, 8, 0.18);
+  --featured-star: #b8860b;
 }
 
 * {
@@ -258,6 +261,23 @@ body.directory h1 {
   font-weight: 800;
 }
 
+#lakes-table tr.featured-row {
+  background: var(--featured-tint);
+}
+
+#lakes-table tr.featured-row:hover {
+  background: var(--featured-tint-hover);
+}
+
+#lakes-table .star {
+  color: var(--featured-star);
+}
+
+#lakes-table tr.divider-row td {
+  padding: 0;
+  border-bottom: 2px solid var(--accent);
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #10161d;
@@ -265,5 +285,8 @@ body.directory h1 {
     --accent: #8b98a6;
     --grid: rgba(255, 255, 255, 0.12);
     --row-hover: rgba(255, 255, 255, 0.04);
+    --featured-tint: rgba(234, 179, 8, 0.12);
+    --featured-tint-hover: rgba(234, 179, 8, 0.2);
+    --featured-star: #f2c14e;
   }
 }

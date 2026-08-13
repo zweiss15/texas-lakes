@@ -3,12 +3,13 @@
   "name": "Lewisville Lake",
   "city": "Dallas",
   "location": "near Dallas, Texas",
-  "date": "2026-08-07",
-  "waterLevel": 521.07,
-  "percentFull": 95.6,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 520.84,
+  "percentFull": 94.5,
   "percentFullMonthAgo": 100,
-  "percentFullYearAgo": 96.4,
+  "percentFullYearAgo": 95.6,
   "conservationCapacity": 563228,
   "recordStartDate": "1988-01-06",
-  "fetchedAt": "2026-08-07T18:51:46.740Z"
+  "fetchedAt": "2026-08-11T16:32:03.920Z"
 }

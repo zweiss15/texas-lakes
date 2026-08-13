@@ -3,12 +3,13 @@
   "name": "Medina Lake",
   "city": "San Antonio",
   "location": "near San Antonio, Texas",
-  "date": "2026-08-07",
-  "waterLevel": 1021.83,
-  "percentFull": 29.8,
-  "percentFullMonthAgo": 9,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 1021.89,
+  "percentFull": 29.9,
+  "percentFullMonthAgo": 9.1,
   "percentFullYearAgo": 6.4,
   "conservationCapacity": 254823,
   "recordStartDate": "1997-08-09",
-  "fetchedAt": "2026-08-07T18:50:25.109Z"
+  "fetchedAt": "2026-08-11T16:30:51.170Z"
 }

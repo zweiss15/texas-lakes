@@ -3,12 +3,13 @@
   "name": "Lake Somerville",
   "city": "College Station",
   "location": "near College Station, Texas",
-  "date": "2026-08-07",
-  "waterLevel": 238.27,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 238.06,
   "percentFull": 100,
   "percentFullMonthAgo": 100,
   "percentFullYearAgo": 100,
   "conservationCapacity": 150293,
   "recordStartDate": "1995-10-02",
-  "fetchedAt": "2026-08-07T18:51:31.410Z"
+  "fetchedAt": "2026-08-11T16:32:02.037Z"
 }

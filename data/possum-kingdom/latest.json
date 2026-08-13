@@ -3,12 +3,13 @@
   "name": "Possum Kingdom Lake",
   "city": "Fort Worth",
   "location": "west of Fort Worth, Texas — one of the state's oldest major reservoirs",
-  "date": "2026-08-07",
-  "waterLevel": 996.63,
-  "percentFull": 92.4,
-  "percentFullMonthAgo": 93.1,
-  "percentFullYearAgo": 99.5,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 996.39,
+  "percentFull": 91.6,
+  "percentFullMonthAgo": 92.6,
+  "percentFullYearAgo": 99,
   "conservationCapacity": 538139,
   "recordStartDate": "1947-01-01",
-  "fetchedAt": "2026-08-07T18:55:10.103Z"
+  "fetchedAt": "2026-08-11T16:36:09.090Z"
 }

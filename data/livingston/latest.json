@@ -3,12 +3,13 @@
   "name": "Lake Livingston",
   "city": "Houston",
   "location": "near Houston, Texas",
-  "date": "2026-08-07",
-  "waterLevel": 130.54,
-  "percentFull": 97.8,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 130.39,
+  "percentFull": 97.1,
   "percentFullMonthAgo": 100,
-  "percentFullYearAgo": 99.2,
+  "percentFullYearAgo": 99.5,
   "conservationCapacity": 1603504,
   "recordStartDate": "1996-10-03",
-  "fetchedAt": "2026-08-07T18:51:13.962Z"
+  "fetchedAt": "2026-08-11T16:31:41.871Z"
 }

@@ -3,12 +3,13 @@
   "name": "Lavon Lake",
   "city": "Dallas",
   "location": "near Dallas, Texas",
-  "date": "2026-08-07",
-  "waterLevel": 490.71,
-  "percentFull": 93.6,
-  "percentFullMonthAgo": 100,
-  "percentFullYearAgo": 95.3,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 490.45,
+  "percentFull": 92.3,
+  "percentFullMonthAgo": 99.7,
+  "percentFullYearAgo": 94.1,
   "conservationCapacity": 409757,
   "recordStartDate": "1988-09-30",
-  "fetchedAt": "2026-08-07T18:52:11.567Z"
+  "fetchedAt": "2026-08-11T16:32:20.348Z"
 }

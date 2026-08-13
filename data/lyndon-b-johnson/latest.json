@@ -3,12 +3,13 @@
   "name": "Lake LBJ",
   "city": "Austin",
   "location": "in the Highland Lakes chain near Austin, Texas",
-  "date": "2026-08-07",
-  "waterLevel": 824.76,
-  "percentFull": 98.6,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 824.64,
+  "percentFull": 98,
   "percentFullMonthAgo": 98.6,
-  "percentFullYearAgo": 98.5,
+  "percentFullYearAgo": 98.7,
   "conservationCapacity": 112778,
   "recordStartDate": "1951-08-01",
-  "fetchedAt": "2026-08-07T18:50:49.876Z"
+  "fetchedAt": "2026-08-11T16:31:31.275Z"
 }

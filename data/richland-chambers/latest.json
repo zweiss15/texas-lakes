@@ -3,12 +3,13 @@
   "name": "Richland-Chambers Reservoir",
   "city": "Dallas-Fort Worth",
   "location": "south of Dallas-Fort Worth, Texas",
-  "date": "2026-08-07",
-  "waterLevel": 313.69,
-  "percentFull": 94.8,
-  "percentFullMonthAgo": 95.6,
-  "percentFullYearAgo": 99.4,
+  "featured": false,
+  "date": "2026-08-11",
+  "waterLevel": 313.57,
+  "percentFull": 94.4,
+  "percentFullMonthAgo": 95.1,
+  "percentFullYearAgo": 99,
   "conservationCapacity": 1099417,
   "recordStartDate": "1989-10-02",
-  "fetchedAt": "2026-08-07T18:52:33.504Z"
+  "fetchedAt": "2026-08-11T16:32:51.886Z"
 }

@@ -3,12 +3,13 @@
   "name": "Lake Ray Roberts",
   "city": "Dallas",
   "location": "near Dallas, Texas",
-  "date": "2026-08-07",
-  "waterLevel": 632.08,
-  "percentFull": 98.5,
+  "featured": true,
+  "date": "2026-08-11",
+  "waterLevel": 631.95,
+  "percentFull": 98,
   "percentFullMonthAgo": 100,
-  "percentFullYearAgo": 98.5,
+  "percentFullYearAgo": 98.1,
   "conservationCapacity": 788167,
   "recordStartDate": "1988-01-21",
-  "fetchedAt": "2026-08-07T18:51:37.185Z"
+  "fetchedAt": "2026-08-11T16:32:02.778Z"
 }

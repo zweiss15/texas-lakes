@@ -1,8 +1,8 @@
 [
   {
     "date": "2021-08-13",
-    "waterLevel": 1016.73,
-    "percentFull": 96.6
+    "waterLevel": 1016.68,
+    "percentFull": 96.5
   },
   {
     "date": "2021-08-20",
@@ -1325,8 +1325,8 @@
     "percentFull": 99.3
   },
   {
-    "date": "2026-08-07",
-    "waterLevel": 1019.68,
-    "percentFull": 99.2
+    "date": "2026-08-11",
+    "waterLevel": 1019.65,
+    "percentFull": 99.1
   }
 ]
